@@ -1,0 +1,2585 @@
+TY  - CONF
+TI  - CAD/CAE modeling of the human exposure to electric field inside a high voltage substation
+T2  - 2014 International Conference and Exposition on Electrical and Power Engineering (EPE)
+SP  - 476
+EP  - 479
+AU  - C. Munteanu
+AU  - M. Purcar
+AU  - D. Bursasiu
+AU  - E. Merdan
+AU  - V. Farcas
+PY  - 2014
+KW  - Electric fields
+KW  - Substations
+KW  - Solid modeling
+KW  - Computational modeling
+KW  - Three-dimensional displays
+KW  - Conductors
+KW  - Design automation
+KW  - High voltage substation
+KW  - CAD/CAE modeling
+KW  - electromagnetic field
+KW  - human exposure
+DO  - 10.1109/ICEPE.2014.6969953
+JO  - 2014 International Conference and Exposition on Electrical and Power Engineering (EPE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 International Conference and Exposition on Electrical and Power Engineering (EPE)
+Y1  - 16-18 Oct. 2014
+AB  - This paper presents the computer aided design (CAD) and computer aided engineering (CAE) modeling of Cluj-Sud 110 kV high voltage substation in order to examine the influence of substation constructive elements and apparatus (e.g. phase conductors, bypass bus bars, breakers and towers) on the spatial electric field distribution. The substation belongs to FDEE Electrica distributie Transilvania Nord SA. In a first step the detailed three dimensional (3D) CAD models of the substation components are constructed and assembled in the CAD environment SolidWorks. Then the exact 3D coordinates of the terminals are automatically retrieved and the electric field distribution is computed on the 3D CAD model using a CAE software developed. The electric field distribution is represented on horizontal and transversal slices at the 3D CAD model in order to highlight the high intensity field zones and compare them with respect to the actual legislation norms of human exposure.
+ER  - 
+
+TY  - CONF
+TI  - CAD/CAE modeling of electromagnetic field distribution in hv substations and investigation of the human exposure
+T2  - 2016 International Conference on Applied and Theoretical Electricity (ICATE)
+SP  - 1
+EP  - 5
+AU  - M. Purcar
+AU  - C. Munteanu
+AU  - A. Avram
+AU  - F. Miron
+PY  - 2016
+KW  - Substations
+KW  - Solid modeling
+KW  - Three-dimensional displays
+KW  - Computational modeling
+KW  - Electric fields
+KW  - Conductors
+KW  - CAD/CAE modeling
+KW  - high voltage substations
+KW  - electromagnetic field
+KW  - human exposure
+DO  - 10.1109/ICATE.2016.7754698
+JO  - 2016 International Conference on Applied and Theoretical Electricity (ICATE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Applied and Theoretical Electricity (ICATE)
+Y1  - 6-8 Oct. 2016
+AB  - The recent advances in computer aided design (CAD) modeling of electromagnetic field distribution in high voltage (HV) substation are presented in this paper. The substation constitutive components (e.g. towers, breakers, circuit conductors, bus bars, transformers, etc.) were built-up by the authors as three dimensional (3D) CAD models and stored in a data base under the SolidWorks CAD environment. A computer aided design software (CAE) developed by the authors retrieves the 3D coordinates of the substation constitutive components and based on the specific loads computes the electromagnetic field spatial distribution. Both 3D CAD and CAE approaches are outlined on a 3D CAD model of a cell belonging to a 400kV substation. The simulated electromagnetic field distributions are computed and represented over the HV substation 3D CAD model. This allows to visualize and spot the high concentration electromagnetic field areas. A comparison between the measurements performed in situ and simulated electric field is made. The resulted electromagnetic field is finally compared with the professional human exposure limits in controlled environment.
+ER  - 
+
+TY  - CONF
+TI  - Electric and magnetic field distribution inside high voltage power stations from Romanian power grid
+T2  - 2008 International Symposium on Power Electronics, Electrical Drives, Automation and Motion
+SP  - 416
+EP  - 421
+AU  - C. Munteanu
+AU  - C. Diaconu
+AU  - I. T. Pop
+AU  - V. Topa
+PY  - 2008
+KW  - Substations
+KW  - Magnetic fields
+KW  - Electric fields
+KW  - Magnetic field measurement
+KW  - Electric variables measurement
+KW  - Electromagnetic fields
+KW  - Circuit breakers
+KW  - Electromagnetic field
+KW  - field computation
+KW  - measurements
+KW  - substations
+DO  - 10.1109/SPEEDHAM.2008.4581334
+JO  - 2008 International Symposium on Power Electronics, Electrical Drives, Automation and Motion
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 International Symposium on Power Electronics, Electrical Drives, Automation and Motion
+Y1  - 11-13 June 2008
+AB  - The paper emphasize the results of the first systematic electromagnetic field measurements performed in high and very high voltage substations belonging to the Romanian national power grid in order to face the requirements of the EU directives regarding the human exposure to the electromagnetic fields. In the first part of the paper, the experimental field measurement results from a recently rehabilitated 400/220 kV substation belonging to the Romanian Transport and System Operator (TSO) Company are presented. It follows the experimental field measurement results from two 110/20/10 kV electricity distribution substations. The high intensity field zones are highlighted and the highest field value found is compared with the exposure limits given by the actual legislation. In the second part of the paper theoretical field computation methods are approached following two main reasons: to validate the experimental results and to proof their efficiency in evaluating the electromagnetic field values in the neighbourhood of the power devices from complex systems such as the substations. The final conclusions of the study performed and the actions proposed to be taken in practice finish the paper.
+ER  - 
+
+TY  - CONF
+TI  - A method to evaluate electric fields induction of overhead lines and substation's equipment in humans
+T2  - 1999 International Symposium on Electromagnetic Compatibility (IEEE Cat. No.99EX147)
+SP  - 161
+EP  - 164
+AU  - G. Ala
+AU  - P. Buccheri
+AU  - M. Inzerillo
+PY  - 1999
+KW  - Biological system modeling
+KW  - Computational modeling
+KW  - Humans
+KW  - Voltage
+KW  - Substations
+KW  - Computer simulation
+KW  - Grounding
+KW  - Wires
+KW  - Lattices
+KW  - Poles and towers
+DO  - 10.1109/ELMAGC.1999.801288
+JO  - 1999 International Symposium on Electromagnetic Compatibility (IEEE Cat. No.99EX147)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 1999 International Symposium on Electromagnetic Compatibility (IEEE Cat. No.99EX147)
+Y1  - 17-21 May 1999
+AB  - In this paper a method to accurately simulate the human body under a high voltage overhead line or in proximity to substation equipment is proposed, in order to evaluate the electric field and currents on the human body surface. Based on the charge simulation and Maxwell sub-areas methods, the computer program developed allows complex systems to be considered, including three-dimensional multiple overhead lines, busbar system, grounding wires, supporting lattice towers and metallic elements as reinforcing bars.
+ER  - 
+
+TY  - CONF
+TI  - Study of the electric field distribution inside high voltage substations
+T2  - 10th International Symposium on Electromagnetic Compatibility
+SP  - 581
+EP  - 585
+AU  - C. Munteanu
+AU  - V. Topa
+AU  - A. Racasan
+AU  - I. T. Pop
+AU  - E. Merdan
+PY  - 2011
+KW  - Substations
+KW  - Electric fields
+KW  - Electric variables measurement
+KW  - Electromagnetic compatibility
+KW  - Roads
+KW  - Conductors
+KW  - HV substations
+KW  - electric field
+KW  - computation
+KW  - measurements
+KW  - mitigation techniques
+DO  - 
+JO  - 10th International Symposium on Electromagnetic Compatibility
+IS  - 
+SN  - 2325-0364
+VO  - 
+VL  - 
+JA  - 10th International Symposium on Electromagnetic Compatibility
+Y1  - 26-30 Sept. 2011
+AB  - This paper outlines the most recent developments regarding the electric field distribution analysis inside very high voltage substations. The study was performed in order to develop and validate a powerful computation tool able to determine and predict the substation zones where the occupational exposure limits exceeds the admissible values imposed by the legislation. The study cases proposed in the paper are taken from the Romanian national power grid but the conclusions and the mitigation ideas outlined can be directly extended to substations belonging to other national power grids. In the first part of the paper the principles and methods proposed by the authors for the electric field computation in the vicinity of the power devices composing a high voltage substation are outlined. The validation of the computation module implemented was done by comparisons with detailed experimental measurements results performed inside a new rehabilitated 400 kV substation. The evaluation of the results outlines a good agreement between the computed and measured electric field values inside the analyzed substation. This fact motivates the usage of the computation module developed in the design of the future high voltage substations in the light of fulfilling the actual regulations regarding the human exposure to power electric and magnetic fields. In the second part of the paper scenarios to reduce the field values inside the future designed or rehabilitated substations are proposed and examined. The field distributions together with comparison between the field values before and after the implementation of the field mitigation techniques proposed are presented and discussed. The final conclusions ends the paper.
+ER  - 
+
+TY  - JOUR
+TI  - Electric- and Magnetic-Field Measurements in an Outdoor Electric Power Substation
+T2  - IEEE Transactions on Power Delivery
+SP  - 38
+EP  - 42
+AU  - A. S. Safigianni
+AU  - C. G. Tsompanidou
+PY  - 2009
+KW  - Power measurement
+KW  - Electric variables measurement
+KW  - Substations
+KW  - Magnetic field measurement
+KW  - Ground penetrating radar
+KW  - Geophysical measurement techniques
+KW  - Transmission line measurements
+KW  - Area measurement
+KW  - Guidelines
+KW  - Magnetic fields
+KW  - Extremely low-frequency electric- and magnetic-field measurements
+KW  - outdoor electric power substation
+KW  - safe public and occupational exposure
+DO  - 10.1109/TPWRD.2008.917690
+JO  - IEEE Transactions on Power Delivery
+IS  - 1
+SN  - 1937-4208
+VO  - 24
+VL  - 24
+JA  - IEEE Transactions on Power Delivery
+Y1  - Jan. 2009
+AB  - This paper investigates the electric and magnetic fields values in the area of an outdoor electric power substation 2 times 50 MVA, 150/20 kV, in Xanthi, Greece. Results of previous relevant measurements and calculations, as well as the reference levels in force for safe general public and occupational exposure, are presented first. Basic data for the examined substation along with a brief description of the field measurement instruments used follow. The main results of the field measurements in the area of the aforementioned substation are presented in relevant tables and diagrams. Final conclusions, concerning safe public and occupational exposure to these fields, according to the international guidelines, are set out.
+ER  - 
+
+TY  - JOUR
+TI  - Electric Field Reduction in an EHV Substation for Occupational Exposure via Transposition of Conductors
+T2  - IEEE Transactions on Power Delivery
+SP  - 3147
+EP  - 3154
+AU  - D. Harimurugan
+AU  - G. S. Punekar
+PY  - 2018
+KW  - Conductors
+KW  - Substations
+KW  - Power transmission lines
+KW  - Computational modeling
+KW  - Safety
+KW  - Wires
+KW  - Charge simulation method (CSM)
+KW  - extra-high-voltage (EHV) substations
+KW  - electric fields (E-fields)
+KW  - electric field cancellation
+KW  - occupational health and safety
+KW  - permutations
+KW  - substation buses
+KW  - substation bays
+KW  - transposition
+DO  - 10.1109/TPWRD.2018.2860591
+JO  - IEEE Transactions on Power Delivery
+IS  - 6
+SN  - 1937-4208
+VO  - 33
+VL  - 33
+JA  - IEEE Transactions on Power Delivery
+Y1  - Dec. 2018
+AB  - An attempt is made to reduce the maximum value of rms electric field (E-field) via the transposition of conductors in a 765-kV substation with reference to the occupational exposure. The method is applied to a extra-high-voltage substation, which is under construction. The effect of transposing the bay conductors (alone) and the bus conductors (alone) on the E-field distribution (at 2 m above the ground) over the area of the substation is discussed. Also, the topology of substation conductors that results in the minimum value for the maximum of rms E-fields is obtained via simultaneous transpositions of the bus and bay conductors. The area of the substation where the rms E-field exceeds the reference value of 10 kV/m (International Commission on Non-Ionizing Radiation Protection occupational exposure limit) is also reported for the existing topology. For this topology, the computed maximum value of the rms E-field over the area of the substation is 13.06 kV/m. This E-field is reduced to 7.999 kV/m with the best configuration of substation conductors obtained via transposition. The charge-simulation-method-based generalized algorithm for obtaining the best topology (among all permutations) of substation conductors, which results in the minimum value for the maximum of rms E-field magnitudes over the substation area is also reported.
+ER  - 
+
+TY  - CONF
+TI  - Modeling and Measurement of Exposure to Realistic Non-Uniform Electric Fields at 50 Hz
+T2  - 2019 Joint International Symposium on Electromagnetic Compatibility, Sapporo and Asia-Pacific International Symposium on Electromagnetic Compatibility (EMC Sapporo/APEMC)
+SP  - 334
+EP  - 337
+AU  - I. Laakso
+AU  - T. Lehtinen
+PY  - 2019
+KW  - Current measurement
+KW  - Electric fields
+KW  - Magnetic field measurement
+KW  - Safety
+KW  - Computational modeling
+KW  - Head
+KW  - electric field
+KW  - human exposure
+KW  - extremely low frequency
+KW  - contact current
+KW  - electric power transmission
+KW  - electrical substation
+DO  - 10.23919/EMCTokyo.2019.8893698
+JO  - 2019 Joint International Symposium on Electromagnetic Compatibility, Sapporo and Asia-Pacific International Symposium on Electromagnetic Compatibility (EMC Sapporo/APEMC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 Joint International Symposium on Electromagnetic Compatibility, Sapporo and Asia-Pacific International Symposium on Electromagnetic Compatibility (EMC Sapporo/APEMC)
+Y1  - 3-7 June 2019
+AB  - Human exposure to environmental electric fields can be studied using anatomically realistic models of the human body. However, previous studies have focused on the exposure to idealized uniform electric fields and lack experimental verification. In this study, we developed a realistic simulation model of an electrical substation, featuring a very non-uniform electric field distribution. We then performed measurements of the external electric fields and induced currents in several exposure scenarios at the actual substation, allowing direct comparison between the measured and calculated external electric fields and currents induced in the body. The results indicated a very good agreement between simulated and measured values, demonstrating that large-scale non-uniform exposure scenarios can be accurately modeled. Furthermore, even though the highest external electric field strengths exceeded the reference levels defined in the international exposure guidelines by a factor of approximately two, the internal electric fields were compliant with the exposure limits with a margin of safety of three.
+ER  - 
+
+TY  - CONF
+TI  - Electric and magnetic field distribution in substations belonging to transelectrica TSO
+T2  - 2009 IEEE Bucharest PowerTech
+SP  - 1
+EP  - 5
+AU  - G. Visan
+AU  - I. T. Pop
+AU  - C. Munteanu
+PY  - 2009
+KW  - Magnetic fields
+KW  - Substations
+KW  - Magnetic field measurement
+KW  - Electromagnetic fields
+KW  - Electromagnetic measurements
+KW  - Power measurement
+KW  - Performance evaluation
+KW  - Voltage
+KW  - Power grids
+KW  - Face
+KW  - Electromagnetic field
+KW  - substations
+DO  - 10.1109/PTC.2009.5281873
+JO  - 2009 IEEE Bucharest PowerTech
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 IEEE Bucharest PowerTech
+Y1  - 28 June-2 July 2009
+AB  - The paper emphasize the results of the first systematic electromagnetic field measurements performed in very high voltage substations belonging to the Romanian national power grid in order to face the requirements of the EU directives regarding the human exposure to the electromagnetic fields. In the first part of the paper, the experimental field measurement results from a recently rehabilitated 400/220 kV substation belonging to the Romanian transport and system operator (TSO) company are presented. The high intensity field zones are highlighted and the highest field value found is compared with the exposure limits given by the actual legislation. In the second part of the paper theoretical field computation methods are approached following two main reasons: to validate the experimental results and to proof their efficiency in evaluating the electromagnetic field values in the neighbourhood of the power devices from complex systems such as the substations. The final conclusions of the study performed and the actions proposed to be taken in practice finish the paper.
+ER  - 
+
+TY  - CONF
+TI  - Electric and magnetic field measurements in a high voltage center
+T2  - 2011 10th International Conference on Environment and Electrical Engineering
+SP  - 1
+EP  - 4
+AU  - A. S. Safigianni
+AU  - A. I. Spyridopoulos
+AU  - V. L. Kanas
+PY  - 2011
+KW  - Magnetic field measurement
+KW  - Substations
+KW  - Voltage measurement
+KW  - Magnetic fields
+KW  - Transmission line measurements
+KW  - Electric fields
+KW  - extremely low frequency electric and magnetic field measurements
+KW  - high voltage center
+KW  - safe public and occupational exposure
+DO  - 10.1109/EEEIC.2011.5874771
+JO  - 2011 10th International Conference on Environment and Electrical Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 10th International Conference on Environment and Electrical Engineering
+Y1  - 8-11 May 2011
+AB  - This paper investigates the electric and magnetic fields inside a high voltage center in Philippi, Greece, constituted both of 400/150 kV and 150/20 kV substation areas. Results of previous field measurements and calculations in substations are presented first. The basic data distinguishing the examined center from previously examined substations follow. The main results of the field measurements in the areas of the above mentioned center are presented in relevant diagrams. Conclusions arising from the comparison of the measured field values with relevant reference levels in force for safe general public and occupational exposure as well as with the results of previous research are finally given.
+ER  - 
+
+TY  - CONF
+TI  - Study of the electromagnetic field distribution inside a HV/MV substation
+T2  - 2017 International Conference on Modern Power Systems (MPS)
+SP  - 1
+EP  - 4
+AU  - C. Munteanu
+AU  - M. Purcar
+AU  - T. Muresan
+AU  - A. Pop
+AU  - R. Rizzo
+PY  - 2017
+KW  - Substations
+KW  - Magnetic fields
+KW  - Solid modeling
+KW  - Electric fields
+KW  - Three-dimensional displays
+KW  - Computational modeling
+KW  - Roads
+KW  - high voltage substations
+KW  - EMI
+KW  - professional exposure
+KW  - CAD
+DO  - 10.1109/MPS.2017.7974456
+JO  - 2017 International Conference on Modern Power Systems (MPS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Modern Power Systems (MPS)
+Y1  - 6-9 June 2017
+AB  - The electromagnetic field interferences (EMI) can influence both human health and functioning of electrical appliances. An EMI map is an important instrument for monitoring the health exposure limits versus the standards. In order to draw an EMI map measurement methodologies and advanced computational models are required. In case of high voltage (HV) and or medium voltage (MV) substations the numerical simulation has several advantages because it does not require investment in measurement devices and operative personnel and can easily analyze complex working scenarios covering both substation yard and its neighborhoods. Examples of numerical simulations are presented on the 3D model of the 110/20 kV substation named Biharia in order to visualize the electromagnetic field and to make comparisons with the professional human exposure limits.
+ER  - 
+
+TY  - CONF
+TI  - Computation methods and experimental measurements of the electric and magnetic field distribution inside high voltage substations
+T2  - 2009 International Conference on Electromagnetics in Advanced Applications
+SP  - 253
+EP  - 256
+AU  - C. Munteanu
+AU  - V. Topa
+AU  - A. Racasan
+AU  - G. Visan
+AU  - I. T. Pop
+PY  - 2009
+KW  - Magnetic field measurement
+KW  - Distributed computing
+KW  - Electric variables measurement
+KW  - Voltage
+KW  - Substations
+KW  - Electromagnetic measurements
+KW  - Electromagnetic fields
+KW  - Legislation
+KW  - Power grids
+KW  - Software packages
+DO  - 10.1109/ICEAA.2009.5297453
+JO  - 2009 International Conference on Electromagnetics in Advanced Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Electromagnetics in Advanced Applications
+Y1  - 14-18 Sept. 2009
+AB  - The paper emphasizes the results of the first systematic study concerning the electromagnetic field distribution inside a recently rehabilitated 400/220 kV high voltage substation belonging to the Romanian national Power Grid Company Transelectrica S.A., in order to face the EU legislation regarding the occupational exposure to the electromagnetic fields. In the first part of the paper electric and magnetic field computation methods inside substations are outlined. It will be briefly presented a software package developed by the authors dedicated to the electric field computation inside substations. In the second part of the paper the experimental field measurement results are presented. The high intensity field zones are highlighted and the highest field values found are compared with the exposure limits given by the actual legislation. Comparisons between computed and measured field distributions are emphasized. The final conclusions of the study performed end the paper.
+ER  - 
+
+TY  - CONF
+TI  - Determination of minimum security distances of the line output of the Itaipu gas isolated substation in relation to the limits of exposure to the electromagnetic field
+T2  - 2017 IEEE 3rd Global Electromagnetic Compatibility Conference (GEMCCON)
+SP  - 1
+EP  - 5
+AU  - P. S. Paganoto
+AU  - M. P. Hagedorn
+AU  - J. R. da Silva
+PY  - 2017
+KW  - Electric fields
+KW  - Magnetic fields
+KW  - Finite element analysis
+KW  - Standards
+KW  - Sociology
+KW  - Statistics
+KW  - Electric field
+KW  - exposure limits
+KW  - finite element method
+DO  - 10.1109/GEMCCON.2017.8400671
+JO  - 2017 IEEE 3rd Global Electromagnetic Compatibility Conference (GEMCCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE 3rd Global Electromagnetic Compatibility Conference (GEMCCON)
+Y1  - 8-10 Nov. 2017
+AB  - With the increase in electricity demand, new sources of power generation and transmission lines are needed. Thus, because of the need to meet the demand for electricity, transmission lines and substations are increasingly present in urban and local areas near the movement of people. Since electromagnetic fields are a result of the electrical installation, there are rules governing the field exposure levels due to the possibility of causing adverse health effects. The institution which sets the levels of exposure limits is ANEEL (Agência Nacional de Energia Elétrica), with the Normative Resolution n° 398. The analysis of electromagnetic fields can be performed by measurements, analytical calculations, or through computer numerical solutions. This study aims to determine the electromagnetic fields from computer numerical solutions of an output line of a gas-insulated substation, determining the minimum distances for operation and pedestrian traffic.
+ER  - 
+
+TY  - JOUR
+TI  - Boundary Element Approaches for the Evaluation of Human Exposure to Low Frequency Electromagnetic Fields
+T2  - IEEE Transactions on Magnetics
+SP  - 1674
+EP  - 1677
+AU  - O. Bottauscio
+AU  - M. Chiampi
+AU  - L. Zilberti
+PY  - 2009
+KW  - Humans
+KW  - Frequency
+KW  - Electromagnetic fields
+KW  - Biological system modeling
+KW  - Magnetic fields
+KW  - Current density
+KW  - Magnetic analysis
+KW  - Finite element methods
+KW  - Substations
+KW  - Magnetic field measurement
+KW  - Boundary Element methods (BEMs)
+KW  - human exposure to electromagnetic fields
+KW  - standards
+DO  - 10.1109/TMAG.2009.2012778
+JO  - IEEE Transactions on Magnetics
+IS  - 3
+SN  - 1941-0069
+VO  - 45
+VL  - 45
+JA  - IEEE Transactions on Magnetics
+Y1  - March 2009
+AB  - Boundary element approaches are developed to evaluate the human exposure to low-frequency electromagnetic fields, estimating the current density distribution inside the body. The reference man proposed in the IEC Standards is adopted to model the human body. The validation is performed by comparison with analytical and finite-element solutions. Various exposure conditions, typical in electric substations and industrial environment, are finally investigated through the proposed approaches.
+ER  - 
+
+TY  - CONF
+TI  - Occupational exposure assessment for power frequency electromagnetic fields
+T2  - IECEC-97 Proceedings of the Thirty-Second Intersociety Energy Conversion Engineering Conference (Cat. No.97CH6203)
+SP  - 2107
+EP  - 2113 vol.3
+AU  - A. S. Farag
+AU  - M. M. Dawoud
+AU  - T. C. Cheng
+AU  - J. S. Cheng
+PY  - 1997
+KW  - Magnetic field measurement
+KW  - Frequency estimation
+KW  - Biological system modeling
+KW  - Electromagnetic fields
+KW  - Instruments
+KW  - Power measurement
+KW  - Electric variables measurement
+KW  - Electromagnetic measurements
+KW  - Power transmission
+KW  - Substations
+DO  - 10.1109/IECEC.1997.656752
+JO  - IECEC-97 Proceedings of the Thirty-Second Intersociety Energy Conversion Engineering Conference (Cat. No.97CH6203)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - IECEC-97 Proceedings of the Thirty-Second Intersociety Energy Conversion Engineering Conference (Cat. No.97CH6203)
+Y1  - 27 July-1 Aug. 1997
+AB  - Exposure assessment is the determination or estimate of the magnitude, frequency of occurrence, and rate of exposure of an individual or a group to an environmental agent. The agents of interest in this case are the electric and magnetic fields (EMF) in the extreme low frequency range that includes the power frequency of 50/60 Hz. There are an increasing concern that exposure to EMF may be associated with biological and health effects. This concern has prompted numerous measurement projects and the development of instrumentation, methodologies, and exposure models and simulations. This paper identifies the status of EMF exposure assessment research related to occupational exposures. It draws the results to emphasize the unique aspects of EMF exposures in the home and utilities environments, and highlights the research needs. The intensities of electromagnetic fields have been measured under power transmission and distribution lines, at substations and industrial plants and near various electric devices including domestic electrical equipment. The field intensities have been related to the exposure time (duration of staying) in the different areas and have been compared with the international established standards. The data presented are useful for understanding the levels of electromagnetic fields that can be encountered in various places and also for estimating possible occupational and residential exposure levels.
+ER  - 
+
+TY  - CONF
+TI  - Study of the magnetic field distribution inside very high voltage substations
+T2  - 2012 International Conference and Exposition on Electrical and Power Engineering
+SP  - 660
+EP  - 663
+AU  - C. Munteanu
+AU  - L. T. Pop
+AU  - V. Tapa
+AU  - C. Hangea
+AU  - T. Gutiu
+AU  - S. Lup
+PY  - 2012
+KW  - Magnetic fields
+KW  - Substations
+KW  - Magnetic field measurement
+KW  - Electromagnetic fields
+KW  - Roads
+KW  - Electric variables measurement
+KW  - Power grids
+KW  - HV substations
+KW  - magnetic field
+KW  - computation
+KW  - measurements
+DO  - 10.1109/ICEPE.2012.6463571
+JO  - 2012 International Conference and Exposition on Electrical and Power Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 International Conference and Exposition on Electrical and Power Engineering
+Y1  - 25-27 Oct. 2012
+AB  - This paper outlines the most recent developments regarding the magnetic field distribution analysis inside very high voltage substations. The study was performed in order to develop and validate a powerful computation tool able to determine and predict the magnetic field value inside any point of the substation and to check whether the exposure limits exceeds the admissible values imposed by the legislation. The study case proposed in the paper is taken from the Romanian national power grid but the conclusions outlined can be directly extended to substations belonging to other national power grids. In the first part of the paper the principles and methods proposed by the authors for the magnetic field computation in the vicinity of the power devices composing a high voltage substation are outlined. The validation of the computation module implemented was done by comparisons with detailed experimental measurements results performed inside a new rehabilitated 400 kV substation. The evaluation of the results outlines a good agreement between the computed and measured magnetic field values inside the analyzed substation. This fact motivates the usage of the computation module developed in the design of the future high voltage substations in the light of fulfilling the actual regulations regarding the human exposure to power electric and magnetic fields. In the second part of the paper results of the field values inside the studied substation are presented. The final conclusions end the paper.
+ER  - 
+
+TY  - CONF
+TI  - Spatiotemporal electric field distribution in an EHV substation in view of occupational exposure
+T2  - 2019 IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER)
+SP  - 1
+EP  - 5
+AU  - D. Harimurugan
+AU  - G. S. Punekar
+AU  - N. K. Kishore
+PY  - 2019
+KW  - Substations
+KW  - Power transmission lines
+KW  - Conductors
+KW  - Computational modeling
+KW  - Wires
+KW  - Spatiotemporal phenomena
+KW  - Guidelines
+KW  - Charge simulation method
+KW  - EHV substation
+KW  - Electric field
+KW  - ICNIRP guidelines
+KW  - Occupational exposure
+DO  - 10.1109/DISCOVER47552.2019.9008014
+JO  - 2019 IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER)
+Y1  - 11-12 Aug. 2019
+AB  - With the increase in the transmission voltage levels, the effect of non-ionizing radiation (NIR) becomes a major concern. The International Commission on Non-Ionizing Radiation (ICNIRP) provides the guidelines for protection against NIR. It suggests the reference electric field (e-field) value of 10 kV/m for occupational exposure and 5 kV/m for general public exposure for the substation. In view of this, e-field prevailing in a 765 kV generating substation is studied in the present work to assess the spatiotemporal distribution using charge simulation method (CSM) based model. This should give a feel of the possible threat posed by these fields to the working personal due to NIR. The upcoming EHV substation in central India is considered with its bays, transmission lines, buses, and ground wires. The instantaneous values of e-field are computed at different instances over the 50 Hz voltage cycle, at 2 m height above the ground plane over the entire substation arena. The demo of spatiotemporal variation of e-field computed at different instants of time over a cycle using simulating charges taken from the real-number-field will be presented and discussed during the presentation. This would result in a time-space changing e-field-force, and give a feel of creation of churning of air and electric wind. This will have much higher significance at the heights were conductors are placed where the e-fields are higher. It is also shown that because of spatiotemporal variation of e-field, the rms value of e-field can be easily obtained using simulating charges taken from complex-number-field which is of significance from the point of view of ICNIRP guidelines.
+ER  - 
+
+TY  - CONF
+TI  - Calculation of Electric Field in Any Point of the Earth for Determination of Electromagnetic Compatibility of Objects with High-Voltage Power
+T2  - 2018 International Multi-Conference on Industrial Engineering and Modern Technologies (FarEastCon)
+SP  - 1
+EP  - 4
+AU  - A. S. Karpov
+AU  - G. P. Fastiy
+PY  - 2018
+KW  - Electric fields
+KW  - Electric potential
+KW  - Electromagnetic compatibility
+KW  - Mathematical model
+KW  - Conductivity
+KW  - Wires
+KW  - Industrial engineering
+KW  - electromagnetic compatibility
+KW  - high-voltage network
+KW  - power line
+KW  - mathematical model
+KW  - electric field
+KW  - reliability of operation
+KW  - emergency mode
+DO  - 10.1109/FarEastCon.2018.8602753
+JO  - 2018 International Multi-Conference on Industrial Engineering and Modern Technologies (FarEastCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 International Multi-Conference on Industrial Engineering and Modern Technologies (FarEastCon)
+Y1  - 3-4 Oct. 2018
+AB  - The paper presents a mathematical model of physical processes of high-voltage transmission lines and underground conductors electromagnetic compatibility. In this model, analytical expressions of the electromagnetic field along the underground communications are obtained by interpreting the solution of dipole field for lower half-space, the results of solutions interpretation for the dipole field vector potential are presented, dependence of the change in field characteristics on the removal and electrical conductivity of the soil, as well as a possibility of limiting the computation volumes for a given error. Investigation of the induced voltages and currents in the elements of underground wire communication can be performed, which is important for providing safety operation of relay protection, communication channels and automation, as well as for the safety of people, especially near substations.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of the power frequency electric field generated by high voltage substations
+T2  - 2010 Asia-Pacific International Symposium on Electromagnetic Compatibility
+SP  - 707
+EP  - 710
+AU  - C. Munteanu
+AU  - I. T. Pop
+AU  - G. Visan
+AU  - V. Topa
+AU  - A. Racasan
+AU  - M. Purcar
+PY  - 2010
+KW  - Frequency
+KW  - Power generation
+KW  - Voltage
+KW  - Substations
+KW  - Electromagnetic fields
+KW  - Grid computing
+KW  - Mesh generation
+KW  - Power grids
+KW  - Electromagnetic measurements
+KW  - Performance evaluation
+DO  - 10.1109/APEMC.2010.5475511
+JO  - 2010 Asia-Pacific International Symposium on Electromagnetic Compatibility
+IS  - 
+SN  - 2162-7673
+VO  - 
+VL  - 
+JA  - 2010 Asia-Pacific International Symposium on Electromagnetic Compatibility
+Y1  - 12-16 April 2010
+AB  - The paper outlines the results of a study regarding the electromagnetic field generated by a 400 kV high voltage substation belonging to the Romanian national Power Grid Company Transelectrica SA. In the first part of the paper, a semi-analytical computation module dedicated to the electric field computation inside substations is presented. Comparison of the computation results with the experimental measurements performed in the substation is outlined. Scenarios to reduce the field value inside substation in order to fulfil the requirements of the actual legislation regarding the occupational exposure to power frequency electromagnetic fields are proposed. The final conclusions of the study performed end the paper.
+ER  - 
+
+TY  - CONF
+TI  - Electric and Magnetic Field Distribution inside High and Very High Voltage Substations
+T2  - 2009 20th International Zurich Symposium on Electromagnetic Compatibility
+SP  - 277
+EP  - 280
+AU  - C. Munteanu
+AU  - G. Visan
+AU  - I. T. Pop
+AU  - V. Topa
+AU  - E. Merdan
+AU  - A. Racasan
+PY  - 2009
+KW  - Magnetic fields
+KW  - Voltage
+KW  - Substations
+KW  - Magnetic field measurement
+KW  - Electromagnetic fields
+KW  - Electromagnetic measurements
+KW  - Power measurement
+KW  - Performance evaluation
+KW  - Power grids
+KW  - Face
+DO  - 10.1109/EMCZUR.2009.4783444
+JO  - 2009 20th International Zurich Symposium on Electromagnetic Compatibility
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 20th International Zurich Symposium on Electromagnetic Compatibility
+Y1  - 12-16 Jan. 2009
+AB  - The paper emphasize the results of the first systematic electromagnetic field measurements performed in high and very high voltage substations belonging to the Romanian national power grid in order to face the requirements of the EU documents regarding the human exposure to the electromagnetic fields. In the first part of the paper, the experimental field measurement results from a recently rehabilitated 400/220 kV substation belonging to the Romanian Transport and System Operator (TSO) Company are presented. It follows the experimental field measurement results from two 110/20/10 kV electricity distribution substations. The high intensity field zones are highlighted and the highest field value found is compared with the exposure limits given by the actual legislation. In the second part of the paper theoretical field computation methods are approached following two main reasons: to validate the experimental results and to prove their efficiency in evaluating the electromagnetic field values in the neighbourhood of the power devices from complex systems such as the substations. The final conclusions of the study performed and the actions proposed to be taken in practice finish the paper.
+ER  - 
+
+TY  - CONF
+TI  - Measurement and prediction of electrical substation generated electromagnetic field
+T2  - 2011 IEEE Power and Energy Society General Meeting
+SP  - 1
+EP  - 6
+AU  - Y. Ma
+AU  - G. G. Karady
+AU  - J. R. Hunt
+AU  - B. L. Priest
+PY  - 2011
+KW  - Substations
+KW  - Magnetic field measurement
+KW  - Magnetic fields
+KW  - Workstations
+KW  - Current measurement
+KW  - Humans
+KW  - Legged locomotion
+KW  - Electromagnetic field
+KW  - EMF
+KW  - EMF WorkStation
+KW  - substation
+DO  - 10.1109/PES.2011.6039200
+JO  - 2011 IEEE Power and Energy Society General Meeting
+IS  - 
+SN  - 1944-9925
+VO  - 
+VL  - 
+JA  - 2011 IEEE Power and Energy Society General Meeting
+Y1  - 24-28 July 2011
+AB  - A strong magnetic field exists within high voltage substations. People living close to these substations have expressed concern about the external electromagnetic field (EMF) generated from these substations. Salt River Project (SRP) utilizes EMF WorkStation, a simulation software package developed by Electric Power Research Institute (EPRI) to evaluate the EMF level for existing and future substations. The objective of this study is to measure and map the EMF field inside a selected SRP urban substation, compare field measurement with simulation results, and then provide an independent and impartial evaluation of the EMF WorkStation software. The comparison results show that EMF WorkStation is able to provide acceptable estimation of the EMF generated by the substation.
+ER  - 
+
+TY  - CONF
+TI  - Investigation of electric field distribution inside 500 kV power distribution substations
+T2  - IEEE International Conference on Electro-Information Technology , EIT 2013
+SP  - 1
+EP  - 4
+AU  - I. S. Okrainskaya
+AU  - S. P. Gladyshev
+AU  - A. I. Sidorov
+AU  - N. V. Glotova
+PY  - 2013
+KW  - Substations
+KW  - Electric fields
+KW  - Electric variables measurement
+KW  - Ultrasonic variables measurement
+KW  - Power distribution
+KW  - Optical variables measurement
+DO  - 10.1109/EIT.2013.6632651
+JO  - IEEE International Conference on Electro-Information Technology , EIT 2013
+IS  - 
+SN  - 2154-0373
+VO  - 
+VL  - 
+JA  - IEEE International Conference on Electro-Information Technology , EIT 2013
+Y1  - 9-11 May 2013
+AB  - The high level electric field intensity produced by high voltage inside 500 kV power distribution substations is harmful for the human (staff) health. It is very important to have knowledge about levels distribution of electric field intensity within power distribution substation. The paper presents results of investigation 50Hz electric field intensity distribution inside 500 kV power transmission substations in Russian Federation. The measurements of electric field intensity were done inside of twenty six power distribution substations. On base of the measurements, the map of the electric field intensity distribution was build for each substation. These maps are used for planning service works or for inspection of equipment on power substations. In the paper, there are estimations, in percents, what value of substation territory is occupied by different levels of electric field intensities.
+ER  - 
+
+TY  - CONF
+TI  - The influence of cables on the electromagnetic fields around the power system substation
+T2  - Proceedings of the 12th IEEE Mediterranean Electrotechnical Conference (IEEE Cat. No.04CH37521)
+SP  - 1099
+EP  - 1101 Vol.3
+AU  - A. Pavic
+AU  - Z. Stih
+PY  - 2004
+KW  - Cables
+KW  - Electromagnetic fields
+KW  - Power systems
+KW  - Substations
+KW  - Pollution
+KW  - Humans
+KW  - Magnetic fields
+KW  - Magnetic shielding
+KW  - Buildings
+KW  - Equations
+DO  - 10.1109/MELCON.2004.1348250
+JO  - Proceedings of the 12th IEEE Mediterranean Electrotechnical Conference (IEEE Cat. No.04CH37521)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - Proceedings of the 12th IEEE Mediterranean Electrotechnical Conference (IEEE Cat. No.04CH37521)
+Y1  - 12-15 May 2004
+AB  - The significant part of the stray electromagnetic fields around a power system substation originate from the substation cables. The magnetic fields of the underground cables entering a substation have been calculated. The influence of the cables arrangement on the field levels is discussed, and the calculated field levels are compared to the reference levels proposed in the frame of the Croatian nonionizing radiation protection law.
+ER  - 
+
+TY  - CONF
+TI  - Measuring occupational exposure to electric and magnetic fields at 400 kV substations
+T2  - 2008 IEEE/PES Transmission and Distribution Conference and Exposition
+SP  - 1
+EP  - 4
+AU  - J. Latva-Teikari
+AU  - T. Karjanlahti
+AU  - J. Kurikka-Oja
+AU  - J. Elovaara
+AU  - T. Langsjo
+AU  - L. Korpinen
+PY  - 2008
+KW  - Magnetic field measurement
+KW  - Electric variables measurement
+KW  - Substations
+KW  - Current density
+KW  - Phase measurement
+KW  - Voltage
+KW  - Magnetic flux density
+KW  - Density measurement
+KW  - Air safety
+KW  - Inductors
+KW  - electric fields
+KW  - magnetic fields
+KW  - EHV substations
+DO  - 10.1109/TDC.2008.4517068
+JO  - 2008 IEEE/PES Transmission and Distribution Conference and Exposition
+IS  - 
+SN  - 2160-8563
+VO  - 
+VL  - 
+JA  - 2008 IEEE/PES Transmission and Distribution Conference and Exposition
+Y1  - 21-24 April 2008
+AB  - The new European Union directive states that if the electric and magnetic field action values of 10 kV/m or 500 muT at the working place are exceeded, the employer has to ensure that the limit value, given as an induced current density in the body, is not exceeded. The aim of this study was to measure field strengths and find out how the new directive will affect working at Finnish 50 Hz, 400 kV substations. Spots where the action value was exceeded could be found at 75 % of the selected eight substations. The largest electric field strength, 14.3 kV/m, was measured between two adjacent busbars carrying the voltages having the same phase angle. Over 500 muT magnetic flux density was measured in one substation at the safety fence around a three-phase air-core reactor set. Fields were measured at a height 1 m above the ground. According to simple ellipsoid calculations the exposure limit, 10 mA/m of induced current density in the head or trunk, will not be exceeded. However, many of the maintenance tasks have to be done closer to the conductors and busbars and thus more in-depth study and measurements will be necessary at least in Finland.
+ER  - 
+
+TY  - CONF
+TI  - The Analysis of Magnetic Field Intensity and Induced Current under Live Working Based on the Finite Element Method
+T2  - 2015 Fifth International Conference on Instrumentation and Measurement, Computer, Communication and Control (IMCCC)
+SP  - 192
+EP  - 195
+AU  - Y. Luo
+AU  - R. Chen
+AU  - Y. Zhu
+AU  - J. Cheng
+AU  - M. Wei
+PY  - 2015
+KW  - Substations
+KW  - Finite element analysis
+KW  - Electric fields
+KW  - Frequency measurement
+KW  - Current density
+KW  - Magnetic field measurement
+KW  - live working
+KW  - finite element method
+KW  - mannequins
+KW  - field distribution
+KW  - induced current
+DO  - 10.1109/IMCCC.2015.47
+JO  - 2015 Fifth International Conference on Instrumentation and Measurement, Computer, Communication and Control (IMCCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 Fifth International Conference on Instrumentation and Measurement, Computer, Communication and Control (IMCCC)
+Y1  - 18-20 Sept. 2015
+AB  - Inadequate safety issues that may arise from the 500kV substation for live working, field strength and induced current distribution under 500kV bus are analyzing based on the finite element method. By dividing cells and functional for extreme perform spatial field distribution calculation, proper analysis of the field intensity distribution space is carried out. And the spatial field distribution substation is gotten, then to get the induced current in accordance with the space field strength and induced current relationship formula. Building the brief mannequin, and making a simulation with An soft for electromagnetic field around the human body under the Pipe Type Bus Bar of a 500kV substation distributed, electromagnetic field around the body charged distortion and induced current distribution under the bus are analyzed.
+ER  - 
+
+TY  - CONF
+TI  - Electric and magnetic field assessment due to fault in power distribution system
+T2  - 2017 14th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON)
+SP  - 361
+EP  - 364
+AU  - B. Rittong
+AU  - S. Sirisumrannukul
+PY  - 2017
+KW  - Substations
+KW  - Magnetic fields
+KW  - Conductivity
+KW  - Soil
+KW  - Grounding
+KW  - Telecommunications
+KW  - Information technology
+KW  - electric and magnetic field
+KW  - grounding grid
+KW  - resistivity
+DO  - 10.1109/ECTICon.2017.8096248
+JO  - 2017 14th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 14th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON)
+Y1  - 27-30 June 2017
+AB  - This paper analyzes the electric and magnetic field assessment due to fault in power distribution system are calculated by virtue of the current distribution electromagnetic interference grounding and soil structure (CDEGS). All calculations are made for horizontal plane with height of 10 m (fault position) and 1.5 m (approximation of the average human height) above the ground surface level, respectively. The simulation results indicate that the values of electric and magnetic fields due to fault in power distribution system are within the limits of regulations in the international radiation protection association (IRPA).
+ER  - 
+
+TY  - CONF
+TI  - Measurement of high voltage substation generated electromagnetic field
+T2  - 2011 IEEE Trondheim PowerTech
+SP  - 1
+EP  - 6
+AU  - Yan Ma
+AU  - G. G. Karady
+AU  - J. R. Hunt
+AU  - B. L. Priest
+PY  - 2011
+KW  - Substations
+KW  - Magnetic field measurement
+KW  - Magnetic fields
+KW  - Legged locomotion
+KW  - Current measurement
+KW  - Humans
+KW  - Layout
+KW  - Electromagnetic field
+KW  - electric and magnetic fields
+KW  - EMF
+KW  - human exposure
+KW  - substation
+DO  - 10.1109/PTC.2011.6019152
+JO  - 2011 IEEE Trondheim PowerTech
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 IEEE Trondheim PowerTech
+Y1  - 19-23 June 2011
+AB  - High voltage substations produce strong electromagnetic fields (EMF) in the surrounding areas. People who live close to substations express concern about the possible health risk from the exposure to the EMFs. In this research, EMF characteristics are measured inside two 69 kV substations, and an independent and unbiased assessment of the EMF distribution in the substations is provided. The substation EMFs resulting from the field measurements are presented using 3-D plots and contour maps. The maps of EMF distributions and substation layouts are also overlapped to demonstrate their relationship. A conclusion is drawn by comparing the field measurements with the recommended limit of human exposure to the EMF.
+ER  - 
+
+TY  - CONF
+TI  - Distribution of the electric field intensity near the equipment of the 500 kV power substation
+T2  - IEEE International Conference on Electro/Information Technology
+SP  - 216
+EP  - 220
+AU  - I. S. Okrainskaya
+AU  - S. P. Gladyshev
+AU  - A. I. Sidorov
+PY  - 2014
+KW  - Electric fields
+KW  - Substations
+KW  - Switches
+KW  - Circuit breakers
+KW  - Personnel
+KW  - Magnetic field measurement
+KW  - Portals
+DO  - 10.1109/EIT.2014.6871764
+JO  - IEEE International Conference on Electro/Information Technology
+IS  - 
+SN  - 2154-0373
+VO  - 
+VL  - 
+JA  - IEEE International Conference on Electro/Information Technology
+Y1  - 5-7 June 2014
+AB  - The paper presents results of an investigation of distribution of the electric field intensity near the equipment of the 500 kV power substations in Russian Federation. The investigation is conducted with position of security life activity of the technical personnel.
+ER  - 
+
+TY  - CONF
+TI  - Study on Electromagnetic Radiation of Ultra-High Voltage Power Transmission Line
+T2  - 2008 International Conference on Computer Science and Information Technology
+SP  - 402
+EP  - 406
+AU  - Y. Shangzun
+AU  - L. Pengfei
+AU  - N. Ling
+PY  - 2008
+KW  - Electromagnetic radiation
+KW  - Power transmission lines
+KW  - Magnetic fields
+KW  - Electric fields
+KW  - Mirrors
+KW  - Distance measurement
+KW  - Substations
+DO  - 10.1109/ICCSIT.2008.92
+JO  - 2008 International Conference on Computer Science and Information Technology
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 International Conference on Computer Science and Information Technology
+Y1  - 29 Aug.-2 Sept. 2008
+AB  - With the rapid development of electric undertaking and the expansion of town scale, ultra-high voltage (such as ac 1000 kv, dc 800 kv) power transmission lines are coming to our lives. And with the development of ultra-high voltage power transmission line, the ultra-high voltage transformer substation will appear in the place with dense population and the electromagnetic pollution of this transmission and transformer equipment and its infection to the natives arouse the great concern from the society. In the other hand, the natives are afraid of the electromagnetic pollution and oppose the power construction, which brings about many unnecessary troubles. To study the situation of electromagnetic pollution due to the transmission and transformer equipment needs many measurements in the field. This paper focuses on electromagnetic radiation of ultra-high voltage power transmission line. Firstly, investigate the condition of being recognized of electromagnetic radiation and analyze the pollution status of environment and human body due to electromagnetic radiation. And then, study the electric and magnetic field under the transmission line by the method of equivalent charges and put forward the prevention policy to the electromagnetic radiation in the engineering of ultra-high voltage power transmission and transforming.
+ER  - 
+
+TY  - JOUR
+TI  - Assessment of Electric-Field Exposure Using Reliability Analysis
+T2  - IEEE Transactions on Power Delivery
+SP  - 1510
+EP  - 1516
+AU  - L. Jin
+AU  - C. Peng
+AU  - Y. Zhang
+PY  - 2016
+KW  - Electric fields
+KW  - Power system reliability
+KW  - Mathematical model
+KW  - Indexes
+KW  - Reliability theory
+KW  - Electric fields
+KW  - exposure assessments
+KW  - probability
+KW  - reliability
+KW  - substation
+DO  - 10.1109/TPWRD.2015.2480865
+JO  - IEEE Transactions on Power Delivery
+IS  - 4
+SN  - 1937-4208
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Power Delivery
+Y1  - Aug. 2016
+AB  - Excessive exposure to high levels of electromagnetic fields can induce adverse health effects. Numerical calculation is often used in the exposure assessments. However, in the traditional methods, the relative variables are all assumed to have fixed values without considering the effect of staff activity. To improve the deficiencies caused by this assumption, a new method for the exposure assessments based on the reliability theory was proposed in this investigation. As an example, the electric-field exposure in the booster station of a power plant with several paths was studied by the new method. The exposure reliability index and the failure probability of each path were first determined. Then, based on the determined reliability indices, the influence of the bus framework on the exposure was discussed by the sensitivity study, and a series system was set up to evaluate the electromagnetic exposure of the entire booster station. The proposed approach could be employed to assess the electric field in the substations by taking into account the staff activity, in order to improve the management of the occupational exposure in the power transmission and distribution projects.
+ER  - 
+
+TY  - CONF
+TI  - Research on overvoltage and electromagnetic disturbance characteristic of AIS isolating switch
+T2  - 22nd International Symposium on High Voltage Engineering (ISH 2021)
+SP  - 1916
+EP  - 1920
+AU  - H. Xingming
+AU  - M. Yongzhi
+AU  - Y. Jiaxin
+AU  - C. Lin
+AU  - Y. Shan
+PY  - 2021
+DO  - 10.1049/icp.2022.0448
+JO  - 22nd International Symposium on High Voltage Engineering (ISH 2021)
+IS  - 
+SN  - 
+VO  - 2021
+VL  - 2021
+JA  - 22nd International Symposium on High Voltage Engineering (ISH 2021)
+Y1  - 21-26 Nov. 2021
+AB  - As the voltage level of the substation increases and the large amount of electronic equipment is put into use, serious electromagnetic interference has been generated. Especially when the disconnector in AIS is suitable for small capacitive current operations, it does not have the arc extinguishing ability, which leads to the occurrence of medium between the contacts. Break down several times and form a transient overvoltage. This paper builds a 110kV overvoltage electromagnetic disturbance source system simulation model based on logic judgment in the ATP-EMTP software, and compares and analyzes the overvoltage simulation signals under different capacitive loads. The finite integration method, which is suitable for solving the theory of electric large-scale space electromagnetic field electric dipole antenna, is combined with CST MWS software to analyze and calculate the radiation interference of overvoltage, and the magnetic field intensity at a position 1m from the disturbance source in the simulation model is 90-480A/m, the test shows that the magnetic field intensity at a distance of 1m from the disturbance source in the test substation is 100-455A/m, which verifies the correctness of the simulation model and has guiding significance for the installation and construction of substation equipment.
+ER  - 
+
+TY  - CONF
+TI  - Computation of Electromagnetic Field of Transformer Station 110/10(20) kV Using the CDEGS software
+T2  - EUROCON 2007 - The International Conference on "Computer as a Tool"
+SP  - 1360
+EP  - 1365
+AU  - S. Nikolovski
+AU  - P. Maric
+AU  - Z. Baus
+AU  - B. Stefic
+PY  - 2007
+KW  - Electromagnetic fields
+KW  - Magnetic fields
+KW  - Frequency
+KW  - Substations
+KW  - Open source software
+KW  - Power transmission lines
+KW  - Power generation
+KW  - Computational geometry
+KW  - Electromagnetic analysis
+KW  - Magnetic analysis
+KW  - Transformer station
+KW  - Electric field
+KW  - Magnetic filed
+KW  - Electromagnetic compatibility
+KW  - computer program
+DO  - 10.1109/EURCON.2007.4400295
+JO  - EUROCON 2007 - The International Conference on "Computer as a Tool"
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - EUROCON 2007 - The International Conference on "Computer as a Tool"
+Y1  - 9-12 Sept. 2007
+AB  - This paper presents computations of the electric and magnetic fields of complex busbars, transformers and transmission line structures at transmission power station 110/10(20) kV. The fundamental sources of low frequency electromagnetic fields in the TS are the primary elements of the 110 kV open substations as well as connected 110 kV overhead lines. Due to the complexity of the geometry of the substation elements, it was necessary to apply a three-dimensional approach to the computation and analysis of the electromagnetic field. Computations of electromagnetic fields were conducted for quasi-static states of electrical values at a power frequency of 50 Hz. The calculated electric and magnetic fields were compared with permissible levels according to Croatian regulations. The maximum permissible levels for the electric field and magnetic flux density were found to be exceeded at some locations in the station.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of low frequency electromagnetic fields and calculation of induced voltages to an underground pipeline
+T2  - Proceedings of the 2011 3rd International Youth Conference on Energetics (IYCE)
+SP  - 1
+EP  - 7
+AU  - B. Milesevic
+AU  - B. Filipovic-Grcic
+AU  - T. Radosevic
+PY  - 2011
+KW  - Pipelines
+KW  - Rail transportation
+KW  - Conductors
+KW  - Magnetic fields
+KW  - Electric fields
+KW  - Substations
+KW  - electric and magnetic fields
+KW  - electric traction system
+KW  - induced voltages
+KW  - underground gas pipeline
+DO  - 
+JO  - Proceedings of the 2011 3rd International Youth Conference on Energetics (IYCE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of the 2011 3rd International Youth Conference on Energetics (IYCE)
+Y1  - 7-9 July 2011
+AB  - Various regulations, aimed at the protection of human beings and electrical equipment against possible adverse effects resulting from exposure to electromagnetic fields, have been issued in many countries. Most of them are based on safety guidelines published by international expert groups. In this paper, electric and magnetic fields are calculated in the vicinity of 25 kV traction line supplying railway traction system. Calculation results are compared to exposure limits specified by safety guidelines and regulations. Possible countermeasures for reduction of electromagnetic fields are proposed. Because of the continuous growth of energy consumption and the tendency to site power lines and pipelines along the same route, the close proximity of power lines and buried metallic pipelines has become more and more frequent. Therefore, there has been and still is a growing concern about possible hazards resulting from the influence of power lines on metallic pipelines. Buried gas pipelines are exposed to corrosion due to induced voltages from an electric traction overhead line. This paper presents a method for calculation of the induced voltages to an underground gas pipeline from a neighbouring 25 kV electric traction overhead line in case of short circuit. Calculations are performed with EMTP-ATP software. Possible countermeasures for reduction of induced voltages are proposed.
+ER  - 
+
+TY  - CONF
+TI  - Power frequency magnetic fields of medium voltage switchgear. A concept for evaluating the field strengths under an exposure limit point of view
+T2  - Proceedings. Asia-Pacific Conference on Environmental Electromagnetics. CEEM'2000 (IEEE Cat. No.00EX402)
+SP  - 226
+EP  - 231
+AU  - B. W. Jaekel
+PY  - 2000
+KW  - Frequency
+KW  - Magnetic fields
+KW  - Medium voltage
+KW  - Switchgear
+KW  - Substations
+KW  - Electromagnetic compatibility
+KW  - Humans
+KW  - Automation
+KW  - Drives
+KW  - Magnetic switching
+DO  - 10.1109/CEEM.2000.853938
+JO  - Proceedings. Asia-Pacific Conference on Environmental Electromagnetics. CEEM'2000 (IEEE Cat. No.00EX402)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings. Asia-Pacific Conference on Environmental Electromagnetics. CEEM'2000 (IEEE Cat. No.00EX402)
+Y1  - 7-7 May 2000
+AB  - Power frequency magnetic fields caused by medium voltage switchgear might disturb sensitive equipment such as video display units or might even conflict with exposure limits concerning people living or working near such installations. In order to prevent possible influences or adverse effects the knowledge of the magnetic field levels produced by the switchgear is necessary. A suitable concept to get magnetic field distributions around substations is described. This concept considers the emissions of switchgear from a general point of view and avoids investigating actual substations in detail. Rather it allows derivation of the field strength levels from the data of the switchgear type.
+ER  - 
+
+TY  - CONF
+TI  - Measurement of Electric Field Intensity nearby High Voltage Power Stations
+T2  - 2019 International Conference on ENERGY and ENVIRONMENT (CIEM)
+SP  - 82
+EP  - 85
+AU  - M. Frigura-Iliasa
+AU  - A. F. Olariu
+AU  - F. I. Baloi
+AU  - F. M. Frigura-Iliasa
+AU  - D. Vatau
+AU  - R. C. Petrenci
+PY  - 2019
+KW  - Magnetic field measurement
+KW  - Electric fields
+KW  - Substations
+KW  - Safety
+KW  - Power measurement
+KW  - Voltage measurement
+KW  - electric field
+KW  - high voltage
+KW  - power station
+DO  - 10.1109/CIEM46456.2019.8937646
+JO  - 2019 International Conference on ENERGY and ENVIRONMENT (CIEM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on ENERGY and ENVIRONMENT (CIEM)
+Y1  - 17-18 Oct. 2019
+AB  - In the area beyond each high voltage overhead line or around any high voltage power equipment, integrated inside power stations or operating alone, high values of the electric field intensity (and/or magnetic field induction) accidentally occur. Certain preventive safety measures, both for the environment, as well as for the human personnel, are mandatory. An objective and fair assessment of the electric field intensity around all these facilities is mandatory, before considering any new design features or limiting the operational exposure. This paper shows some measurements of the electric field intensity, performed at the Fantanele 220kV/110kV/20kV Power Station, located in Central Transylvania, Romania. This power station is belonging to the National Romanian Power Grid Operator, TRANSELECTRICA S.A. Our case study is also filled with some electric field measurements, added to describe the electromagnetic field parameters. Data collected will be also used for the refurbishment of some existing power facilities in Romania and for a dedicated digital map of this potentially high-risk power objectives.
+ER  - 
+
+TY  - CONF
+TI  - Measurements and computation of electromagnetic field in transformer station 400/110 kV ernestinovo
+T2  - 2009 IEEE Bucharest PowerTech
+SP  - 1
+EP  - 8
+AU  - S. Nikolovski
+AU  - Z. Klaic
+AU  - B. Stefic
+PY  - 2009
+KW  - Electromagnetic measurements
+KW  - Electromagnetic fields
+KW  - Magnetic field measurement
+KW  - Electric variables measurement
+KW  - Transmission line measurements
+KW  - Substations
+KW  - Power measurement
+KW  - Frequency measurement
+KW  - Performance evaluation
+KW  - Power transmission lines
+KW  - Transformer station
+KW  - electric field
+KW  - magnetic filed
+KW  - electromagnetic compatibility
+KW  - measurements
+DO  - 10.1109/PTC.2009.5281994
+JO  - 2009 IEEE Bucharest PowerTech
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 IEEE Bucharest PowerTech
+Y1  - 28 June-2 July 2009
+AB  - This paper presents results of measurements and computations of the electric and magnetic fields of complex busbars, transformers and transmission line structures at transformer station 400/110 kV. The fundamental sources of low frequency electromagnetic fields in the transformer station are the primary elements of the 400 and 110 kV open substations and associated overhead lines. Due to the complexity of the geometry of the substation elements, it was necessary to apply a three-dimensional approach to the computation of the electromagnetic field. Measurements were performed by EMS 100 field meter and computations of electromagnetic fields were conducted for quasi-static states of electrical values at a power frequency of 50 Hz. The calculated electric and magnetic fields were compared with measured values and permissible levels according to Croatian regulations. Measurements were performed for real working conditions for twelve different profiles in the transformer station.
+ER  - 
+
+TY  - CONF
+TI  - Measurements of Electromagnetic Field in High Voltage Power Stations
+T2  - 2019 International Conference on ENERGY and ENVIRONMENT (CIEM)
+SP  - 86
+EP  - 89
+AU  - M. Frigura-Iliasa
+AU  - F. I. Baloi
+AU  - A. F. Olariu
+AU  - D. Vatau
+AU  - R. C. Petrenci
+AU  - M. Bran
+PY  - 2019
+KW  - Magnetic field measurement
+KW  - Voltage measurement
+KW  - Power measurement
+KW  - Databases
+KW  - Safety
+KW  - Magnetic fields
+KW  - Power generation
+KW  - electromagnetic field
+KW  - high voltage
+KW  - power station
+DO  - 10.1109/CIEM46456.2019.8937707
+JO  - 2019 International Conference on ENERGY and ENVIRONMENT (CIEM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on ENERGY and ENVIRONMENT (CIEM)
+Y1  - 17-18 Oct. 2019
+AB  - In the area of all power stations, or in their close proximity, there are, in some situations, high values of the magnetic field induction and/or electric field intensity. In many cases, low frequency electromagnetic fields are not taken in consideration, until recently, as dangerous for humans. A realistic and objective assessment of the electromagnetic field (magnetic field induction and electric field intensity) in the proximity of these facilities is a major step before designing new safety measures, suitable both for environment, as well as for human operators. This article presents a database, populated with measurements of these two main parameters measured inside or close to some major power stations, located in the Central Transylvania Region of Romania, belonging to the National Power Grid Operator, TRANSELECTRICA S.A. The newly created database will be the start point to build a digital map of field exposure for all the considered stations, before reducing or eliminating human exposure on certain dangerous zones. The given database could be also used for the refurbishment or construction of new safety features.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Transformation and Research of One Hundred and Ten Thousand Substation
+T2  - 2013 6th International Conference on Intelligent Networks and Intelligent Systems (ICINIS)
+SP  - 185
+EP  - 188
+AU  - W. Xu
+AU  - C. Hong
+AU  - Z. Jian
+AU  - J. Zhenhua
+PY  - 2013
+KW  - Substations
+KW  - Switches
+KW  - Electric fields
+KW  - Artificial intelligence
+KW  - Power grids
+KW  - Electromagnetic interference
+KW  - digitized substation
+KW  - electromagnetic interference
+KW  - finite element
+KW  - simulation
+KW  - redundant protection
+DO  - 10.1109/ICINIS.2013.54
+JO  - 2013 6th International Conference on Intelligent Networks and Intelligent Systems (ICINIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 6th International Conference on Intelligent Networks and Intelligent Systems (ICINIS)
+Y1  - 1-3 Nov. 2013
+AB  - In today's information times, people pay more and more attention to digital. People debate about how to construct intelligent distribution network. 110 kV digital substation is an important part of intelligent distribution network. This paper will put forward a digitization reconstruction scheme based on 110 kV ordinary substations. In the paper, we talk about how to fight electromagnetic interference, take simulation experiment and puts forward the solution to it.
+ER  - 
+
+TY  - CONF
+TI  - Assessment of Human Exposure to Power Substation Electric Field
+T2  - 2006 International Conference on Software in Telecommunications and Computer Networks
+SP  - 1
+EP  - 6
+AU  - D. Poljak
+AU  - N. Kovac
+AU  - C. Gonzalez
+AU  - A. Peratta
+AU  - S. Kraljevic
+PY  - 2006
+KW  - Humans
+KW  - Substations
+KW  - Current density
+KW  - Ground penetrating radar
+KW  - Geophysical measurement techniques
+KW  - Integral equations
+KW  - Boundary element methods
+KW  - Laplace equations
+KW  - Frequency
+KW  - Power generation
+DO  - 10.1109/SOFTCOM.2006.329713
+JO  - 2006 International Conference on Software in Telecommunications and Computer Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 International Conference on Software in Telecommunications and Computer Networks
+Y1  - 29 Sept.-1 Oct. 2006
+AB  - The paper deals with human exposure to extremely low frequency (ELF) electric fields generated by transformer substation. The problem is twofold, i.e. it requires the calculation of power substation electric field and current density induced inside the human body. ELF electric field generated from a power substation is assessed by solving the Scalar Potential Integral Equation (SPIE) using the Source Element Method (SEM), a variant of the Indirect Boundary Element Method (IBEM). Knowing the electric field due to the substation the current density induced within the human being exposed to such field is obtained by solving the Laplace equation variant of the continuity equation using the direct Boundary Element Method with domain decomposition (BEM-DM). Some illustrative computational results for external electric field and internal current density are presented.
+ER  - 
+
+TY  - CONF
+TI  - Research on fault detection method of grounding grids based on surface potential distribution
+T2  - 2016 China International Conference on Electricity Distribution (CICED)
+SP  - 1
+EP  - 5
+AU  - Y. Lu
+AU  - X. Lin
+AU  - S. Hao
+PY  - 2016
+KW  - Grounding
+KW  - Electric potential
+KW  - Surface waves
+KW  - Soil
+KW  - Conductivity
+KW  - Substations
+KW  - Conductors
+KW  - Grounding grids
+KW  - lightning wave
+KW  - surface potential
+KW  - transient electric field
+KW  - fault detection
+DO  - 10.1109/CICED.2016.7576302
+JO  - 2016 China International Conference on Electricity Distribution (CICED)
+IS  - 
+SN  - 2161-749X
+VO  - 
+VL  - 
+JA  - 2016 China International Conference on Electricity Distribution (CICED)
+Y1  - 10-13 Aug. 2016
+AB  - Grounding grids play a very important role for the safe operation of the substation. When grounding grids fault occurred, resulted in abnormal surface potential or uneven distribution, and that will be a serious threat to personnel and equipment. Considering the influences of leakage current and displacement current in the soil, establish mathematical model of transient electric field. Combining with the grounding grids of 800kV GIS substation, I established three dimensional electric field model of grounding grids using finite element method and obtained surface potential distribution of three-dimensional figure. And then I analyze the buried depth, soil resistivity, and other factors of grounding grids on the surface potential distribution, using the method of transient wave injection. At last, I calculated the surface potential distribution of the grounding grids in the case of fault and non-fault, proposed a method of grounding grids fault detection based on surface potential distribution features. Research shows that: the influence rule of the buried depth of grounding grids to the surface potential distribution of conductor and grids center are different. The surface potential increased gradually with the increase of soil resistivity. It is possible to detect grounding grids fault according to the characteristics of the surface potential distribution.
+ER  - 
+
+TY  - CONF
+TI  - Monitoring system dedicated for the assessment of the electromagnetic field parameters on a Transelectrica-Romania power station
+T2  - 2015 International Conference on Information and Digital Technologies
+SP  - 114
+EP  - 119
+AU  - N. I. Luca
+AU  - D. Vatau
+AU  - F. M. Frigura-Iliasa
+AU  - P. Andea
+PY  - 2015
+KW  - Conferences
+KW  - Decision support systems
+KW  - Monitoring
+KW  - Electromagnetic fields
+KW  - Power generation
+KW  - Air Quality
+KW  - Online System
+KW  - Power Plant
+DO  - 10.1109/DT.2015.7222960
+JO  - 2015 International Conference on Information and Digital Technologies
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Information and Digital Technologies
+Y1  - 7-9 July 2015
+AB  - In the proximity of the high voltage overhead power lines and within the high voltage substations, several human beings and environment safety measures are necessary to be taken, imposed by the nature of all electromagnetic phenomena. These precautions have to be respected during power facilities exploitation. The recorded values using a powerful power quality and environment impact monitoring system within several substations in Romania are analyzed. As a study case it is used a representative substation within the Romanian Power System (400/220/110/20 kV Sibiu Sud Substation).
+ER  - 
+
+TY  - JOUR
+TI  - Boundary Element Modeling of the Realistic Human Body Exposed to Extremely-Low-Frequency (ELF) Electric Fields: Computational and Geometrical Aspects
+T2  - IEEE Transactions on Electromagnetic Compatibility
+SP  - 153
+EP  - 162
+AU  - M. C. Gonzalez
+AU  - A. Peratta
+AU  - D. Poljak
+PY  - 2007
+KW  - Boundary element methods
+KW  - Human factors
+KW  - Power distribution lines
+KW  - Boundary element method (BEM)
+KW  - extremely low frequencies (ELFs)
+KW  - human body
+KW  - power distribution lines
+DO  - 10.1109/TEMC.2006.888167
+JO  - IEEE Transactions on Electromagnetic Compatibility
+IS  - 1
+SN  - 1558-187X
+VO  - 49
+VL  - 49
+JA  - IEEE Transactions on Electromagnetic Compatibility
+Y1  - Feb. 2007
+AB  -  This paper presents the human exposure assessment to high-voltage extremely-low-frequency (ELF) fields by the three-dimensional (3-D) boundary element method (BEM). The formulation is based on a realistic, anatomically based representation of the human body. The main objective is to analyze the influence of the relative position of the arms with respect to the body on the axial distribution of current density along the body and to determine the most vulnerable regions. Numerical results along head, neck, torso, abdomen, arms, legs, and ankles are presented and discussed in the case of grounded subject standing under power-distribution lines and in the vicinity of power transformer substations. 
+ER  - 
+
+TY  - JOUR
+TI  - Measurement of Electric Fields Around a 1000-kV UHV Substation
+T2  - IEEE Transactions on Power Delivery
+SP  - 2356
+EP  - 2362
+AU  - N. Li
+AU  - X. Yang
+AU  - Z. Peng
+PY  - 2013
+KW  - Transmission line measurements
+KW  - Substations
+KW  - Inductors
+KW  - Electric fields
+KW  - Position measurement
+KW  - Power system measurements
+KW  - High voltage techniques
+KW  - Electric fields
+KW  - measurement
+KW  - power frequency
+KW  - substations
+KW  - ultra-high voltage (UHV)
+DO  - 10.1109/TPWRD.2013.2269146
+JO  - IEEE Transactions on Power Delivery
+IS  - 4
+SN  - 1937-4208
+VO  - 28
+VL  - 28
+JA  - IEEE Transactions on Power Delivery
+Y1  - Oct. 2013
+AB  - This paper investigates the power frequency electric fields around a 1000-kV ultra-high voltage (UHV) substation which is located in Jingmen, China. Detailed field measurements around this substation as well as numerical results in a 1000-kV area are provided. Most values observed are below the reference level indicated in the relevant national design guideline. Therefore, we can conclude that the power frequency electric fields around this UHV substation are safer for working personnel.
+ER  - 
+
+TY  - CONF
+TI  - Novel method for analyzing the transient behavior of grounding systems based on the finite-difference time-domain method
+T2  - 2001 IEEE Power Engineering Society Winter Meeting. Conference Proceedings (Cat. No.01CH37194)
+SP  - 1128
+EP  - 1132 vol.3
+AU  - K. Tanabe
+PY  - 2001
+KW  - Transient analysis
+KW  - Grounding
+KW  - Power system transients
+KW  - Electromagnetic transients
+KW  - Lightning
+KW  - Substations
+KW  - Power transmission lines
+KW  - Poles and towers
+KW  - Electromagnetic fields
+KW  - Surges
+DO  - 10.1109/PESW.2001.917230
+JO  - 2001 IEEE Power Engineering Society Winter Meeting. Conference Proceedings (Cat. No.01CH37194)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - 2001 IEEE Power Engineering Society Winter Meeting. Conference Proceedings (Cat. No.01CH37194)
+Y1  - 28 Jan.-1 Feb. 2001
+AB  - When lightning strikes bulk transmission lines or electric substations, large currents flow through towers or in substations and equipment structures before dissipating in the ground through the grounding systems. The electromagnetic fields generated by such lightning surges cause large currents and voltages, which may result in damage to equipment and serious accidents, such as failure of electrical transmission, and furthermore may be dangerous to personnel working nearby. Moreover, the immunity level of electronic equipment that contains semiconductors and LSI devices is low, and such equipment is sensitive to various types of electromagnetic stimuli. Therefore, it is important to analyze the transient behavior of grounding systems of power systems in order to study lightning protection and improve human safety. However, the transient behavior of grounding systems has so far been difficult to evaluate. In this paper, we propose a novel method in which the transient behavior is analyzed based on the finite-difference time-domain method, and confirm its validity through comparison between experimental results of the transient behavior and analytical results.
+ER  - 
+
+TY  - CONF
+TI  - Risk assessment for implanted cardiac defibrillator workers occupationally exposed to electromagnetic fields
+T2  - International Symposium on Electromagnetic Compatibility - EMC EUROPE
+SP  - 1
+EP  - 5
+AU  - I. Magne
+AU  - M. Souques
+PY  - 2012
+KW  - Implants
+KW  - Magnetic fields
+KW  - Substations
+KW  - Probes
+KW  - Employment
+KW  - Medical services
+KW  - Electromagnetic fields
+KW  - fitness for work
+KW  - cardiac implant
+KW  - electromagnetic field
+KW  - occupational exposure
+DO  - 10.1109/EMCEurope.2012.6396911
+JO  - International Symposium on Electromagnetic Compatibility - EMC EUROPE
+IS  - 
+SN  - 2325-0364
+VO  - 
+VL  - 
+JA  - International Symposium on Electromagnetic Compatibility - EMC EUROPE
+Y1  - 17-21 Sept. 2012
+AB  - The functioning of cardiac implants such as implanted cardiac defibrillator (ICD) may be perturbed by the exposure of the implanted person to electromagnetic field at workplace. We propose a method in order to help the occupational physician to take a decision when assessing the fitness for work in such a case, which is based on in situ assessment studies. We give here examples of exposure to 50 Hz magnetic field and to 380-400 MHz electromagnetic field.
+ER  - 
+
+TY  - JOUR
+TI  - Development of a pocket ultrahigh frequency partial-discharge detector to warn switchyard personnel of imminent failure of a nearby high-voltage plant
+T2  - IEEE Electrical Insulation Magazine
+SP  - 6
+EP  - 11
+AU  - J. Lopez-Roldan
+AU  - T. Tang
+PY  - 2012
+KW  - Partial discharges
+KW  - Discharges (electric)
+KW  - Substations
+KW  - Fault location
+KW  - UHF devices
+KW  - Radio frequency
+KW  - ultrahigh frequency
+KW  - partial discharge
+KW  - substation
+DO  - 10.1109/MEI.2012.6130526
+JO  - IEEE Electrical Insulation Magazine
+IS  - 1
+SN  - 1558-4402
+VO  - 28
+VL  - 28
+JA  - IEEE Electrical Insulation Magazine
+Y1  - January-February 2012
+AB  - A pocket device to warn switchyard personnel of imminent insulation breakdown in a nearby HV plant has been developed. The detector is based on the well-known UHF technique for PD detection. However, it is much smaller, lighter, and cheaper than a conventional PD detector. It can discriminate against communication, broadcasting, and external PD sources present in substation switchyards and thus avoid false alarms. During the design stage, an analysis of the electromagnetic emission spectra of several substations was carried out. Continuous recording of frequency and amplitude enabled the identification of several discharge sources, whose characteristics were very dependent on climatic conditions. During laboratory and field testing, several RF sensors and pulse processing algorithms were tested using an oil tester to simulate PD in oil. Final tests in outdoor substations were carried out to verify the immunity of the detector to external back ground emissions while retaining an acceptable detection range for targeted internal discharges. The developed UHF pocket alarm has much greater sensitivity than AM radio, the current detection method. It provides simple light and sound warnings and thereby eliminates the need for continuous interpretation of interference sounds on a detuned radio.
+ER  - 
+
+TY  - CONF
+TI  - Characterization of the Environmental Impact of the Electromagnetic Radiations no Ionizantes RNI in the Electrical Train of the City of Lima Based in the Norms of the ICNIR
+T2  - 2021 11th International Conference on Power, Energy and Electrical Engineering (CPEEE)
+SP  - 71
+EP  - 75
+AU  - R. P. Muñoz
+PY  - 2021
+KW  - Substations
+KW  - Power measurement
+KW  - Pollution
+KW  - Energy measurement
+KW  - Electromagnetic radiation
+KW  - Pollution measurement
+KW  - Frequency measurement
+KW  - non-ionizing radiations
+KW  - electric field intensity
+KW  - magnetic field intensity
+KW  - electromagnetic pollution
+DO  - 10.1109/CPEEE51686.2021.9383235
+JO  - 2021 11th International Conference on Power, Energy and Electrical Engineering (CPEEE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 11th International Conference on Power, Energy and Electrical Engineering (CPEEE)
+Y1  - 26-28 Feb. 2021
+AB  - The increase of the electromagnetic radiation in the Line of the Electrical Train, by means of the Networks of Electrical Distribution (60/20KV), Substations Electrical and systems of feeding in continuous current in the routes of transport of the electrical train energized, have increased new sources of risk for the health of the users of the Electrical Train, by what, this source of electromagnetic pollution could disturb the health of the human being. The transmission of electrical energy effects by means of the electromagnetic waves, that do not differentiate by the quantity of energy that transmit neither by the industrial frequency to which work. Therefore, the aim is to characterize and analyse the measurements of the Radiations no Ionizing (RNI), in three distinct heights regarding the level of the floor and verify that the measures fulfil with the rule on broadcasts RNI. The method of measurement made was transversal and linear with the end to determine the possible consequences of the increase of electromagnetic radiation generated by electrical Lines, Substations, systems of rectification along the route of the line of the Electrical Train, that are related with the electromagnetic pollution (CEM) and the effects in the health of the users of the Electrical Train of the City of Lima.
+ER  - 
+
+TY  - CONF
+TI  - Layout optimization of framework in substation in view of electromagnetic environment
+T2  - 2016 IEEE 16th International Conference on Environment and Electrical Engineering (EEEIC)
+SP  - 1
+EP  - 6
+AU  - C. Peng
+AU  - L. Jin
+AU  - Z. Tian
+PY  - 2016
+KW  - Layout
+KW  - Substations
+KW  - Electric fields
+KW  - Reliability
+KW  - Probabilistic logic
+KW  - Indexes
+KW  - electric field
+KW  - high-voltage substation
+KW  - framework
+KW  - exposure failure probability
+DO  - 10.1109/EEEIC.2016.7555403
+JO  - 2016 IEEE 16th International Conference on Environment and Electrical Engineering (EEEIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE 16th International Conference on Environment and Electrical Engineering (EEEIC)
+Y1  - 7-10 June 2016
+AB  - Layout of the metal framework, which is widely placed in the power engineering, has effects on the electric field distribution. And moderate electromagnetic environment contributes to the health of staff in the high-voltage substation. Hence, in order to improve the exposure situation in the outdoor substation, the present study optimized the layout of the framework by using a probabilistic method. The exposure failure probability of each working path was calculated under various arrangement schemes, based on the practical environmental field and the level of field staff can bear safely. The occupational exposure situation was improved by finding out framework arrangement with the smallest failure probability, which corresponds to the safest exposure. The obtained results indicate that compact but uneven longitudinal gap between columns, the rhythmically placed beams, and medium sized root span of the column help to create optimal electric field exposure in the substation.
+ER  - 
+
+TY  - CONF
+TI  - Advances on the Electromagnetic Field Distribution Analysis inside High Voltage Substations
+T2  - 2011 46th International Universities' Power Engineering Conference (UPEC)
+SP  - 1
+EP  - 5
+AU  - C. Munteanu
+AU  - V. Topa
+AU  - I. T. Pop
+AU  - A. Racasan
+AU  - E. Merdan
+PY  - 2011
+KW  - Substations
+KW  - Electric fields
+KW  - Electric variables measurement
+KW  - Roads
+KW  - Magnetic field measurement
+KW  - Educational institutions
+DO  - 
+JO  - 2011 46th International Universities' Power Engineering Conference (UPEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 46th International Universities' Power Engineering Conference (UPEC)
+Y1  - 5-8 Sept. 2011
+AB  - This paper outlines the most recent developments regarding the electric field distribution analysis inside very high voltage substations. The study was performed in order to develop and validate a powerful computation tool able to determine and predict the substation zones where the occupational exposure limits exceeds the admissible values imposed by the legislation. The study cases proposed in the paper are taken from the Romanian national power grid but the conclusions and the mitigation ideas outlined can be directly extended to substations belonging to other national power grids. In the first part of the paper the principles and methods proposed by the authors for the electric field computation in the vicinity of the power devices composing a high voltage substation are outlined. The validation of the computation module implemented was done by comparisons with detailed experimental measurements results performed inside a new rehabilitated 400 kV substation. The evaluation of the results outlines a good agreement between the computed and measured electric field values inside the analyzed substation. This fact motivates the usage of the computation module developed in the design of the future high voltage substations in the light of fulfilling the actual regulations regarding the human exposure to power electric and magnetic fields. In the second part of the paper scenarios to reduce the field values inside the future designed or rehabilitated substations are proposed and examined. The field distributions together with comparison between the field values before and after the implementation of the field mitigation techniques proposed are presented and discussed. The final conclusions end the paper.
+ER  - 
+
+TY  - CONF
+TI  - Risk Assessment of Adverse Effects on Employees, Based on the Distribution of Electric Field Strength on a 500 kV Substation
+T2  - 2020 IEEE International Conference on Electro Information Technology (EIT)
+SP  - 184
+EP  - 189
+AU  - I. S. Okrainskaya
+AU  - A. B. Tryapitsyn
+AU  - N. V. Glotova
+AU  - S. P. Gladyshev
+PY  - 2020
+KW  - Electric fields
+KW  - Substations
+KW  - Switchgear
+KW  - Voltage measurement
+KW  - Maintenance engineering
+KW  - Mathematical model
+DO  - 10.1109/EIT48999.2020.9208289
+JO  - 2020 IEEE International Conference on Electro Information Technology (EIT)
+IS  - 
+SN  - 2154-0373
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Electro Information Technology (EIT)
+Y1  - 31 July-1 Aug. 2020
+AB  - The object of study is the outdoor switchgear of one of the 500 kV substations with a rigid busbar. The primary purpose of the study is to obtain a map of the electric field strength distribution, at the height of 1.8 m, around the 500 kV outdoor switchgear equipment. Based on these measurements estimate the probability of adverse effect on the employee by electric field industrial frequency.
+ER  - 
+
+TY  - JOUR
+TI  - System-Level Electric Field Exposure Assessment by the Fault Tree Analysis
+T2  - IEEE Transactions on Electromagnetic Compatibility
+SP  - 1095
+EP  - 1102
+AU  - L. Jin
+AU  - C. Peng
+AU  - T. Jiang
+PY  - 2017
+KW  - Fault trees
+KW  - Reliability
+KW  - Substations
+KW  - Indexes
+KW  - Mathematical model
+KW  - Probability
+KW  - Resistance
+KW  - Electric field
+KW  - exposure assessment
+KW  - fault tree analysis
+KW  - reliability
+KW  - substation
+DO  - 10.1109/TEMC.2017.2647961
+JO  - IEEE Transactions on Electromagnetic Compatibility
+IS  - 4
+SN  - 1558-187X
+VO  - 59
+VL  - 59
+JA  - IEEE Transactions on Electromagnetic Compatibility
+Y1  - Aug. 2017
+AB  - This paper focuses on assessing the electric field exposure in the whole substation by the fault tree analysis. The component-level exposure situation along the path is studied by the reliability analysis, where the field distribution and the moving people are integrated. The system-level exposure situation is then analyzed by generating the exposure fault tree based on the component-level data. The exposure failure probability of the whole substation is ultimately evaluated by analyzing the fault tree's series-parallel system. The influences of the layers and the bounded parameters on the size of the fault tree are also studied in this paper. The results of the case study show that, with the help of the fault tree analysis, the complex exposure situation in a large substation can be clearly evaluated by a probability value.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of Electromagnetic Field Compatibility (EMC) Compliance of HVDC Converter Station
+T2  - 2021 4th International Conference on Energy, Electrical and Power Engineering (CEEPE)
+SP  - 599
+EP  - 604
+AU  - W. Yang
+AU  - Q. Chen
+AU  - H. Xu
+AU  - Y. Li
+AU  - W. Liang
+AU  - F. P. Dawalibi
+PY  - 2021
+KW  - Meters
+KW  - Phase measurement
+KW  - Magnetic field measurement
+KW  - HVDC transmission
+KW  - Computational modeling
+KW  - Electromagnetic compatibility
+KW  - Safety
+KW  - HVDC Convertor Station
+KW  - Electromagnetic Compatibility
+KW  - EMC
+KW  - EMF
+KW  - Personnel Safety
+DO  - 10.1109/CEEPE51765.2021.9475789
+JO  - 2021 4th International Conference on Energy, Electrical and Power Engineering (CEEPE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 4th International Conference on Energy, Electrical and Power Engineering (CEEPE)
+Y1  - 23-25 April 2021
+AB  - Power stations have a very complex electromagnetic environment. The situation is typically worse in an HVDC converter station, because the electromagnetic field (EMF) levels are more severe in proximity to HVDC equipment. Therefore, it is very important to address electromagnetic compatibility (EMC) issues and compliance in the design and operation of HVDC converter stations. This article analyses and discusses in detail HVDC convertor station EMC concerns by focusing on three aspects of the overall design process: analysis method, computer model simulation and EMF calculation. The main purpose of this work is to evaluate the impact of the HVDC station electromagnetic environment on personnel safety and specific equipment by examining the electromagnetic field of the entire converter station under various operating conditions. The analysis methods and procedures introduced in this article can provide guidance and reference for similar EMC analysis and design of offshore and onshore AC/DC converter stations.
+ER  - 
+
+TY  - CONF
+TI  - Study on magnetic field distribution of 10 kV switchgear and shielding efficiency of enclosure
+T2  - 2019 22nd International Conference on Electrical Machines and Systems (ICEMS)
+SP  - 1
+EP  - 5
+AU  - B. Liu
+AU  - Z. Ouyang
+AU  - P. Li
+AU  - Y. Qu
+AU  - T. Wu
+AU  - Z. Wei
+PY  - 2019
+KW  - Switchgear
+KW  - Magnetic fields
+KW  - Magnetic noise
+KW  - Magnetic shielding
+KW  - Bars
+KW  - Permeability
+KW  - Mathematical model
+KW  - switchgear
+KW  - magnetic field
+KW  - FEM
+KW  - enclosure
+KW  - shielding efficiency
+DO  - 10.1109/ICEMS.2019.8921794
+JO  - 2019 22nd International Conference on Electrical Machines and Systems (ICEMS)
+IS  - 
+SN  - 2642-5513
+VO  - 
+VL  - 
+JA  - 2019 22nd International Conference on Electrical Machines and Systems (ICEMS)
+Y1  - 11-14 Aug. 2019
+AB  - The power frequency magnetic fields have a potential adverse health effects on people and MV switchgear acts as one of the prominent sources of magnetic field in the substation. The magnetic field distribution around 10 kV switchgear and the shielding efficiency of the enclosure are studied in this paper. Based on the basic theory of electromagnetic field, the mathematical model of the power frequency magnetic field of switchgear is established. The magnetic induction intensity is solved by finite element method (FEM), and the mesh controlling method is discussed. The shielding efficiency of enclosure is calculated, and the influence of enclosure’s magnetic permeability and thickness on shielding efficiency is analyzed. Then the shielding improvement suggestions are put forward according to the calculation results. The results show that, when the distance from the switchgear door is less than about 0.6 m, the magnetic induction intensity may reach the public exposure limit 100 μT. With the increase of the relative magnetic permeability and the thickness of enclosure, the shielding efficiency is improved, but gradually stabilized.
+ER  - 
+
+TY  - CONF
+TI  - Comments on the FCC approval of finite element method for biomedical transmitters
+T2  - 2011 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC 2011)
+SP  - 565
+EP  - 569
+AU  - J. F. Mologni
+AU  - L. A. Percebon
+AU  - M. A. R. Alves
+AU  - E. Braga
+PY  - 2011
+KW  - Finite element methods
+KW  - Biological system modeling
+KW  - Electric fields
+KW  - Humans
+KW  - Magnetic resonance imaging
+KW  - Cellular phones
+KW  - Head
+KW  - finite element method
+KW  - biomedical transmitter
+KW  - radiation
+KW  - multiphysics
+KW  - specific absorption ratio
+DO  - 10.1109/IMOC.2011.6169268
+JO  - 2011 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC 2011)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC 2011)
+Y1  - 29 Oct.-1 Nov. 2011
+AB  - The Federal Communications Commission (FCC) ruled on February 1st 2011 that the finite element method (FEM) is a valid technique to simulate transmitters that are placed inside, on the surface, or near the human body. This paper investigates how FEM can be employed on biomedical engineering. A complete high fidelity human body model including frequency dependent materials and complex geometries was used. Three examples are described including a magnetic resonance imaging (MRI) system, a human body on a substation environment and specific absorption rate (SAR) simulations on a human head due to a cell phone radiation. Advanced multiphysics technology coupling electromagnetic and thermal simulations are also addressed. A very good agreement between FEM simulations and measurement data was achieved for SAR calculations.
+ER  - 
+
+TY  - CONF
+TI  - Study on the electromagnetic coupling relationship between subway and power grid
+T2  - 2020 IEEE International Conference on High Voltage Engineering and Application (ICHVE)
+SP  - 1
+EP  - 4
+AU  - G. Liu
+AU  - J. Wang
+AU  - S. Hu
+AU  - H. Cai
+AU  - L. Jia
+AU  - R. Li
+PY  - 2020
+KW  - Public transportation
+KW  - Power cables
+KW  - Rails
+KW  - Circuit faults
+KW  - Couplings
+KW  - Power systems
+KW  - Power grids
+KW  - catenary
+KW  - electromagnetic field
+KW  - transmission line
+KW  - DC bias
+DO  - 10.1109/ICHVE49031.2020.9279752
+JO  - 2020 IEEE International Conference on High Voltage Engineering and Application (ICHVE)
+IS  - 
+SN  - 2474-3852
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on High Voltage Engineering and Application (ICHVE)
+Y1  - 6-10 Sept. 2020
+AB  - At present, the development of rail transit in China is very rapid, and the subway greatly facilitates people's transportation. Since the metro adopts THE DC power supply system, the dc magnetic bias fault of the transformer in the surrounding AC power network will be caused by the metro, which will affect the operation of the AC power network. The current research literature considers that the stray current of subway leads to the potential difference between the grounding grids of two substations at different positions, thus causing the dc magnetic bias fault of the transformer. This paper studies the feasibility of generating DC magnetic bias current through electromagnetic coupling between space electromagnetic field and nearby transmission lines while traction power supply catenary provides energy for subway. Firstly, the electromagnetic coupling model between subway overhead contact network and nearby transmission lines is established, the coupling relationship between them is deduced, and the influence law of different factors such as subway depth and grid area on grid induced voltage is analyzed. Then, a field measurement was carried out in a subway section of Chengdu city, a simulated grid loop was built, and the induced voltage signal of the simulated line was collected when the subway vehicles passed. It is found that subway traction power supply system has strong coupling effect on AC power network. It is also found that the induced voltage of the traction network on the grid is not only related to the relative position of the subway and the grid, but also related to the running state of the train. When the subway vehicle runs in the coupling interval, the moving magnetic field generated by the vehicle movement has a greater influence on the DC magnetic bias than the magnetic field generated by the catenary current.
+ER  - 
+
+TY  - JOUR
+TI  - Transient performance of substation structures and associated grounding systems
+T2  - IEEE Transactions on Industry Applications
+SP  - 520
+EP  - 527
+AU  - F. P. Dawalibi
+AU  - Wei Xiong
+AU  - Jinxi Ma
+PY  - 1995
+KW  - Substations
+KW  - Lightning
+KW  - Grounding
+KW  - Electromagnetic fields
+KW  - Soil
+KW  - Frequency domain analysis
+KW  - Electromagnetic transients
+KW  - Personnel
+KW  - Electric potential
+KW  - Magnetic fields
+DO  - 10.1109/28.382112
+JO  - IEEE Transactions on Industry Applications
+IS  - 3
+SN  - 1939-9367
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Industry Applications
+Y1  - May-June 1995
+AB  - When lightning strikes an electric substation, large currents generated by the stroke flow in the above ground structures and grounding system and dissipate in the soil. The electromagnetic fields generated by such high currents may cause damage to equipment and may be dangerous to personnel working nearby. In this paper, the frequency and time domain performance of a substation subjected to a lightning strike is described and discussed. The computed scalar potentials, electric fields, and magnetic fields are presented graphically as a function of spatial coordinates. As a function of time and as a function of both. Two cases are considered. The first case examines the substation grounding system only, while the second case includes an above-ground structure as well. It is believed that the results of the second case have not been published before. A double exponential lightning surge current is injected at one corner of the substation. The response of the grounding system to the frequency domain electromagnetic spectrum of this signal is computed by a frequency domain electromagnetic field analysis software package. The temporal and spatial distributions of the electromagnetic fields inside and near the substation are obtained by an inverse Fourier transformation of all these responses. The presence of a soil with an arbitrary resistivity and permittivity is accurately taken into account. The analysis sheds some new light on the understanding of the effects which take place at the higher frequencies.<>
+ER  - 
+
+TY  - CONF
+TI  - Environmental magnetic field assessment. A case study
+T2  - 2016 International Conference on Applied and Theoretical Electricity (ICATE)
+SP  - 1
+EP  - 6
+AU  - G. Roşu
+AU  - O. Baltag
+AU  - F. Enache
+AU  - M. Morega
+PY  - 2016
+KW  - Magnetic fields
+KW  - Magnetic field measurement
+KW  - Guidelines
+KW  - Substations
+KW  - Poles and towers
+KW  - Standards
+KW  - Magnetic flux density
+KW  - electromagnetic exposure
+KW  - electromagnetic pollution
+KW  - magnetic field measurement
+KW  - standards
+DO  - 10.1109/ICATE.2016.7754701
+JO  - 2016 International Conference on Applied and Theoretical Electricity (ICATE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Applied and Theoretical Electricity (ICATE)
+Y1  - 6-8 Oct. 2016
+AB  - This paper describes the magnetic field measurements performed in a public access area - a market place, situated in the close vicinity of a transformer substation part of the Romanian national power grid. The measurement results were compared to the limits, regarding the human exposure to electromagnetic fields, imposed by normative documents. An analytical simplified estimation was performed too. It was found that in some areas of the market place the magnetic field exceeds the levels imposed by current limiting exposure normative and guidelines. In the same areas, persons working in the market place reported frequent electrostatic discharges.
+ER  - 
+
+TY  - CONF
+TI  - Internal currents in a human body with spheroidal model in 400 kV switching substation
+T2  - 1999 Eleventh International Symposium on High Voltage Engineering
+SP  - 31
+EP  - 34 vol.2
+AU  - S. Reivonen
+AU  - T. Keikko
+AU  - J. Isokorpi
+AU  - L. Korpinen
+PY  - 1999
+DO  - 10.1049/cp:19990588
+JO  - 1999 Eleventh International Symposium on High Voltage Engineering
+IS  - 
+SN  - 0537-9989
+VO  - 2
+VL  - 2
+JA  - 1999 Eleventh International Symposium on High Voltage Engineering
+Y1  - 27-23 Aug. 1999
+AB  - The aim of this study is to examine the induced current densities due to power system fields in the working environment by using the spheroidal calculation model. The induced current densities in a human body located in these extremely low frequency fields can be determined by calculation. The basic restriction of the ICNIRP (International Commission on Non-Ionizing Radiation Protection) guidelines for 50 Hz fields is 10 mA/m/sup 2/ (to workers). The study includes 251 measurement points in 400 kV switching substation. The fields in the substation were measured and then internal currents were calculated. The internal field and current density induced in a human body by the electric and magnetic fields was calculated using the spheroidal model. Measured values in the substation were 1.9-9.9 kV/m for electric fields and 0.49-9.2 /spl mu/T for magnetic fields. The induced internal currents were 0.37-1.9 mA/m/sup 2/ by electric fields and 0.0016-0.030 mA/m/sup 2/ by magnetic fields. Summed values were 0.37-1.9 mA/m/sup 2/. The internal current densities are clearly below the ICNIRP guidelines, 10 mA/m/sup 2/.
+ER  - 
+
+TY  - CONF
+TI  - Research on State Evaluation Method of Electronic Transformer Based on Multi-parameter Transient Strong Electromagnetic Disturbance
+T2  - 2022 China International Conference on Electricity Distribution (CICED)
+SP  - 1014
+EP  - 109
+AU  - X. Deng
+AU  - B. Liu
+AU  - P. Tang
+AU  - X. Wang
+AU  - Y. Liu
+AU  - Y. Huang
+PY  - 2022
+KW  - Current transformers
+KW  - Voltage transformers
+KW  - Electromagnetic scattering
+KW  - Analytic hierarchy process
+KW  - Maintenance engineering
+KW  - Electromagnetic compatibility
+KW  - Indexes
+KW  - electronic transformer
+KW  - electromagnetic compatibility
+KW  - transient strong electromagnetic disturbance
+KW  - fuzzy evaluation
+KW  - state evaluation
+DO  - 10.1109/CICED56215.2022.9929076
+JO  - 2022 China International Conference on Electricity Distribution (CICED)
+IS  - 
+SN  - 2161-749X
+VO  - 
+VL  - 
+JA  - 2022 China International Conference on Electricity Distribution (CICED)
+Y1  - 7-8 Sept. 2022
+AB  - The electromagnetic compatibility environment of electronic transformer in substation is a parameter that the operation and maintenance personnel are concerned about while it’s difficult to be obtained. The research on state evaluation technology of the electromagnetic compatibility of electronic transformer can effectively prevent the electromagnetic compatibility faults and reduce the fault rate of electronic transformer. This paper proposes a method for evaluating the electromagnetic compatibility state of electronic transformer. Firstly, an evaluation index system is established. This index system covers two key sources of transient electromagnetic disturbance that affect electromagnetic compatibility state of electronic transformer, namely power port and signal port. The electromagnetic disturbance includes surge, electrical fast transient burst and damped oscillatory wave. Secondly, the weight of each factor is determined by the analytic hierarchy process method, and the membership function of each index is determined by fuzzy comprehensive evaluation method. This method makes up for the gap in the field of state evaluation of electromagnetic compatibility of electronic transformer, and gives early warning of electromagnetic compatibility faults and the evaluation results can guide the decision of electronic transformer in terms of operation and maintenance.
+ER  - 
+
+TY  - CONF
+TI  - General description and assessment of magnetic field distributions caused by switchgear installations
+T2  - 2005 IEEE Russia Power Tech
+SP  - 1
+EP  - 7
+AU  - B. W. Jaekel
+PY  - 2005
+KW  - Magnetic fields
+KW  - Switchgear
+KW  - Electromagnetic transients
+KW  - Frequency
+KW  - Electromagnetic fields
+KW  - Immune system
+KW  - Lead
+KW  - Substations
+KW  - Electromagnetic radiation
+KW  - Switching circuits
+KW  - assessment
+KW  - electromagnetic fields
+KW  - exposure
+KW  - magnetic fields
+KW  - power frequency
+KW  - substation
+KW  - switchgear
+DO  - 10.1109/PTC.2005.4524520
+JO  - 2005 IEEE Russia Power Tech
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2005 IEEE Russia Power Tech
+Y1  - 27-30 June 2005
+AB  - The subject of power frequency magnetic fields has become very popular during recent years. This is mainly due to two facts: the increasing usage of display units which represent a very sensitive interference victim and the increasing public concern with respect to adverse health effects caused by such fields. Switchgear installations act as one of the prominent sources of power frequency magnetic fields and therefore knowledge of their magnetic field amplitudes is required in order to assess potential effects. On the other hand switchgear installations are often very individual ones with consequently very individual magnetic field distributions. This basically requires an individual investigation of each installation - a procedure which has been shown as a very involved and cost consuming one in practice. The paper describes a basic assessment method which can be used to evaluate magnetic field distributions around switchgear installations from a general point of view. The resulting field distributions can be utilized to derive and to determine appropriate distances between switchgear and areas under consideration needed to comply with any limits concerning people or equipment.
+ER  - 
+
+TY  - JOUR
+TI  - Partial discharge occurrence induced by crack defect on GIS insulator operated at 1100 kV
+T2  - IEEE Transactions on Dielectrics and Electrical Insulation
+SP  - 2250
+EP  - 2257
+AU  - H. -x. Ji
+AU  - C. -r. Li
+AU  - G. -m. Ma
+AU  - Z. -k. Pang
+AU  - Z. -g. Tang
+AU  - H. Wen
+AU  - B. -y. Cui
+PY  - 2016
+KW  - Electric fields
+KW  - Insulators
+KW  - Gas insulation
+KW  - Partial discharges
+KW  - Surface cracks
+KW  - Power systems
+KW  - Force
+KW  - Gas insulated switchgear (GIS)
+KW  - crack defect
+KW  - partial discharge
+KW  - electric field distortion
+DO  - 10.1109/TDEI.2016.7556501
+JO  - IEEE Transactions on Dielectrics and Electrical Insulation
+IS  - 4
+SN  - 1558-4135
+VO  - 23
+VL  - 23
+JA  - IEEE Transactions on Dielectrics and Electrical Insulation
+Y1  - August 2016
+AB  - It was observed that partial discharges were not detected from GIS insulators with the crack defects operated at 1100 kV in the UHV substation in China. The question is that whether crack defects can induce partial discharge at the operated voltage. In order to obtain the relationships between PD occurrence and crack configuration on GIS insulator operated at 1100 kV, the electric field strengths in the crack, changed with crack length, crack depth, crack direction, crack position, were simulated on a 1100 kV GIS insulator at operation voltage. The simulated results indicated that the field strength in the cracks, which located on the surface of the insulator or paralleled to the electric field direction, were close to that in the insulator around the crack, and the crack cannot induce partial discharge. However, the field strength in the cracks, which located in the deep position of insulator and in perpendicular to the electric field direction, was much higher than that in the insulator around the crack. For example, in the case of the crack located close to high voltage conductor, field strength in deep crack perpendicular to electric field direction could be 5.6 times of the field strength in the insulator around the crack, and it close to the field criteria of gas discharge, leading partial discharge occurred at operation voltage. The simulated results were verified by the experiment conducted on the insulators with cracks. The experimental results indicated that the crack could produce partial discharge, only when it is located in deep insulator material and in perpendicular to the electric field direction, and close to high voltage conductor.
+ER  - 
+
+TY  - CONF
+TI  - Research on grounding grid safety assessment based on the Field-Circuit model
+T2  - 2015 IEEE International Conference on Information and Automation
+SP  - 1075
+EP  - 1078
+AU  - W. Zhang
+AU  - Y. Li
+PY  - 2015
+KW  - Grounding
+KW  - Conductors
+KW  - Leakage currents
+KW  - Mathematical model
+KW  - Electric potential
+KW  - Safety
+KW  - Substations
+KW  - Field-Circuit Method
+KW  - Image method
+KW  - Contact voltage
+KW  - Step voltage
+KW  - Fault diagnosis
+DO  - 10.1109/ICInfA.2015.7279446
+JO  - 2015 IEEE International Conference on Information and Automation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Information and Automation
+Y1  - 8-10 Aug. 2015
+AB  - Grounding grid is an important equipment to guarantee the safety and reliable of power system. It should be diagnosed regularly to prevent from corrosion, which is significant to ensure the safety of people and equipment. It has a significant value to do some research on the algorithm of grounding grid diagnosis. Contact voltage, step voltage and ground resistance are the most important characters to diagnosis. In this paper, an approach based on Field-Circuit Method is proposed. We establish the equation with the use of node voltage method and the transimpedance relationship. And we use the image method to calculate.
+ER  - 
+
+TY  - CONF
+TI  - EMC Assessment on Power Frequency Radiation in High-Rise Building
+T2  - The 2006 4th Asia-Pacific Conference on Environmental Electromagnetics
+SP  - 345
+EP  - 348
+AU  - K. H. Chan
+AU  - C. K. Tang
+AU  - L. C. Fung
+AU  - S. W. Leung
+PY  - 2006
+KW  - Electromagnetic compatibility
+KW  - Frequency
+KW  - Magnetic field measurement
+KW  - Substations
+KW  - Magnetic fields
+KW  - Transformers
+KW  - Floors
+KW  - Humans
+KW  - Radiation safety
+KW  - Power measurement
+DO  - 10.1109/CEEM.2006.257968
+JO  - The 2006 4th Asia-Pacific Conference on Environmental Electromagnetics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The 2006 4th Asia-Pacific Conference on Environmental Electromagnetics
+Y1  - 1-4 Aug. 2006
+AB  - Substations, electrical rooms and high current busway risers are placed in secured vaults, and commonly located within the buildings, where a high level of magnetic field radiation is generated; this situation has raise the concern on human safety issue particularly for high-rise buildings. In this paper, an assessment of magnetic field radiations at power frequency inside a high-rise building in Hong Kong is described, and the measured magnetic field is referenced to the safety limits stated in ICNIRP guideline
+ER  - 
+
+TY  - CONF
+TI  - Frequency domain analysis of 110/35 kV transformer station grounding system subject to lightning strike
+T2  - PowerTech Budapest 99. Abstract Records. (Cat. No.99EX376)
+SP  - 238
+EP  - 
+AU  - S. Nikolovski
+AU  - S. Fortin
+PY  - 1999
+KW  - Frequency domain analysis
+KW  - Grounding
+KW  - Lightning
+KW  - Soil
+KW  - Electromagnetic transients
+KW  - Electromagnetic fields
+KW  - IEEE members
+KW  - Current distribution
+KW  - Flexible printed circuits
+KW  - Electric potential
+DO  - 10.1109/PTC.1999.826670
+JO  - PowerTech Budapest 99. Abstract Records. (Cat. No.99EX376)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - PowerTech Budapest 99. Abstract Records. (Cat. No.99EX376)
+Y1  - 29 Aug.-2 Sept. 1999
+AB  - Lightning transients processes appear when lightning strikes hit tall objects, such as transmission and communication towers or transformer substations. Large currents generated by the stroke flow in the grounding system and dissipate in the soil. The electromagnetic fields (EMF) generated by such high currents may cause damage to equipment and may be dangerous to personnel. The field theory method is used to examine the transient behaviour of the lightning processes in the grounding system.
+ER  - 
+
+TY  - CONF
+TI  - Exposure to electric and magnetic fields of electric power systems
+T2  - IEEE/PES Transmission and Distribution Conference and Exhibition
+SP  - 2352
+EP  - 2356 vol.3
+AU  - T. Keikko
+AU  - S. Kuusiluoma
+AU  - L. Korpinen
+PY  - 2002
+KW  - Magnetic fields
+KW  - Biological system modeling
+KW  - Current density
+KW  - Humans
+KW  - Magnetic field measurement
+KW  - Power system modeling
+KW  - Power system protection
+KW  - Substations
+KW  - Councils
+KW  - Power system harmonics
+DO  - 10.1109/TDC.2002.1177833
+JO  - IEEE/PES Transmission and Distribution Conference and Exhibition
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - IEEE/PES Transmission and Distribution Conference and Exhibition
+Y1  - 6-10 Oct. 2002
+AB  - The magnetic fields from electric power system have been studied for several years now at Tampere University of Technology (TUT). Several studies have been carried out where exposure to electric and magnetic fields have been measured. Exposure recommendations in force are given by the Council of the European Union and the International Commission on Non-Ionizing Radiation Protection (ICNIRP). The recommended current density value is 2 mA/m/sup 2/ for public exposure. For occupational exposure the recommended value is 10 mA/m/sup 2/ given by ICNIRP. The aim of this study was to calculate internal current induced by electric and magnetic fields of electric power system and to compare those results with the recommendations in force. The spheroidal calculation model was used. The internal currents calculated in this study were generally quite small.
+ER  - 
+
+TY  - CONF
+TI  - Electric and Magnetic Fields Estimation for Live Transmission Line Right of Way Workers Using Artificial Neural Network
+T2  - 2009 15th International Conference on Intelligent System Applications to Power Systems
+SP  - 1
+EP  - 6
+AU  - C. A. Belhadj
+AU  - S. El-Ferik
+PY  - 2009
+KW  - Magnetic fields
+KW  - Transmission lines
+KW  - Artificial neural networks
+KW  - Power transmission lines
+KW  - Distributed parameter circuits
+KW  - Substations
+KW  - Frequency estimation
+KW  - Guidelines
+KW  - Petroleum
+KW  - Minerals
+KW  - Charge simulation method
+KW  - electric and magnetic fields
+KW  - power frequency
+KW  - live-line workers
+KW  - exposure limits
+KW  - artificial neural networks
+DO  - 10.1109/ISAP.2009.5352819
+JO  - 2009 15th International Conference on Intelligent System Applications to Power Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 15th International Conference on Intelligent System Applications to Power Systems
+Y1  - 8-12 Nov. 2009
+AB  - This paper presents an estimation study for live transmission line workers exposed to power frequency electric and magnetic fields using a generalized regression neural network (GRNN). A real double circuit transmission line is selected. The live-line worker is exposed to fields in the right of way of the transmission at 3.28 feet (1 m) above the ground. Both fields' associated values have been generated using EPRI's EMF workstation software. The calculations are based on the charge simulation method for the electric field, and Biot-Savart law for the magnetic field. The generalization capability of the designed GRNN network under large number of worker positions within the right of way has been tested and predicted. Fast performance, accurate evaluation, and very good prediction have been obtained for the testing that covers the whole area.
+ER  - 
+
+TY  - CONF
+TI  - Research and application of 2.4G wireless precise positioning in substation
+T2  - 2017 IEEE Conference on Energy Internet and Energy System Integration (EI2)
+SP  - 1
+EP  - 5
+AU  - M. Zhang
+AU  - N. Li
+AU  - Z. Jing
+AU  - Y. Xing
+PY  - 2017
+KW  - Base stations
+KW  - Substations
+KW  - Real-time systems
+KW  - Receivers
+KW  - Time measurement
+KW  - Monitoring
+KW  - Antenna arrays
+KW  - Substation
+KW  - indoor positioning
+KW  - wireless positioning
+DO  - 10.1109/EI2.2017.8245279
+JO  - 2017 IEEE Conference on Energy Internet and Energy System Integration (EI2)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE Conference on Energy Internet and Energy System Integration (EI2)
+Y1  - 26-28 Nov. 2017
+AB  - At present, all kinds of substations mainly rely on electrical quantity and chemical quantity for device detection. And the analysis method of accident or post-accident is unable to make early-warning for human-error accident. In this paper, different solutions of 2.4G wireless are analyzed. Based on the analysis, a precision indoor positioning method of 2.4G wireless is proposed, which accomplish the real-time position of field operator and the setup of patrol route. Human-error accidents are effectively avoided by the proposed method.
+ER  - 
+
+TY  - CONF
+TI  - The SEMONT continuous monitoring and exposure assessment for the low-frequency EMF
+T2  - 2016 IEEE International Conference on Emerging Technologies and Innovative Business Practices for the Transformation of Societies (EmergiTech)
+SP  - 50
+EP  - 55
+AU  - N. Djuric
+AU  - J. Bjelica
+AU  - D. Kljajic
+AU  - M. Milutinov
+AU  - K. Kasas-Lazetic
+AU  - D. Antic
+PY  - 2016
+KW  - Monitoring
+KW  - Substations
+KW  - Magnetic field measurement
+KW  - Magnetic fields
+KW  - Internet
+KW  - Portals
+KW  - Urban areas
+KW  - monitoring of electromagnetic field
+KW  - non-ionizing radiation exposure
+KW  - wireless sensors network
+DO  - 10.1109/EmergiTech.2016.7737309
+JO  - 2016 IEEE International Conference on Emerging Technologies and Innovative Business Practices for the Transformation of Societies (EmergiTech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE International Conference on Emerging Technologies and Innovative Business Practices for the Transformation of Societies (EmergiTech)
+Y1  - 3-6 Aug. 2016
+AB  - The most known sources of the low-frequency electromagnetic field (EMF) can be found in electric power systems. Those systems and their power distribution parts have become the backbone of economic, technological and overall development of human society, intensely in modern-days. The actual humanity highly depends on the reliable power supply and thus a number of power distribution substations have been established, even in densely populated residential parts of the cities. The presence of such a power substation increases the public concerns on dangerous health effects, considering the exposure to EMF in the vicinity of substations. Thus, the comprehensive and detailed monitoring was demanded, along with the exposure assessment to EMF radiation. The continuous broadband monitoring method of the Serbian Electromagnetic Field Monitoring Network - SEMONT has been considered in this paper, in a case study of the power substation “NS7 - South Telep”, located in the city of Novi Sad, the Republic of Serbia. The exposure assessment, based on daily boundaries, has been employed, showing that acquired results emerge to be far below the Serbian prescribed reference levels.
+ER  - 
+
+TY  - CONF
+TI  - General assessment concept for power frequency emissions from switchgear installations
+T2  - 2005 International Symposium on Electromagnetic Compatibility, 2005. EMC 2005.
+SP  - 463
+EP  - 468 Vol. 2
+AU  - B. W. Jaekel
+PY  - 2005
+KW  - Frequency
+KW  - Switchgear
+KW  - Magnetic fields
+KW  - Electromagnetic transients
+KW  - Electromagnetic fields
+KW  - Immune system
+KW  - Substations
+KW  - Electromagnetic radiation
+KW  - Switching circuits
+KW  - Lead
+DO  - 10.1109/ISEMC.2005.1513559
+JO  - 2005 International Symposium on Electromagnetic Compatibility, 2005. EMC 2005.
+IS  - 
+SN  - 2158-1118
+VO  - 2
+VL  - 2
+JA  - 2005 International Symposium on Electromagnetic Compatibility, 2005. EMC 2005.
+Y1  - 8-12 Aug. 2005
+AB  - The subject of power frequency magnetic fields has become very popular during recent years. This has mainly been due to two facts: the increasing usage of display units which represent a very sensitive interference victim and the increasing public concern with respect to adverse health effects caused by such fields. Switchgear installations act as one of the prominent sources of power frequency magnetic fields and therefore knowledge of their magnetic field amplitudes is required in order to assess potential effects. On the other side switchgear installations are often very individual ones with the consequent very individual magnetic field distributions. This means basically an individual investigation of each installation - a procedure which has been shown as very involved and cost consuming one in practice. The paper describes a basic assessment method which can be used to evaluate magnetic field distributions around switchgear installations from a general point of view. The resulting field distributions can be used to derive and to determine appropriate distances between switchgear and areas under consideration and hence to comply with any limits concerning people or equipment.
+ER  - 
+
+TY  - CONF
+TI  - Digital Mapping of Electric Field inside High Voltage Power Stations
+T2  - 2019 International Conference on Information and Digital Technologies (IDT)
+SP  - 149
+EP  - 152
+AU  - M. Frigura-Iliasa
+AU  - F. I. Baloi
+AU  - A. F. Olariu
+AU  - R. C. Petrenci
+PY  - 2019
+KW  - electric field
+KW  - high voltage
+KW  - power station
+DO  - 10.1109/DT.2019.8813331
+JO  - 2019 International Conference on Information and Digital Technologies (IDT)
+IS  - 
+SN  - 2575-677X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Information and Digital Technologies (IDT)
+Y1  - 25-27 June 2019
+AB  - In the vicinity of each high voltage overhead line or high voltage power equipment, placed or not inside power stations, high values of the electric field intensity (and/or magnetic field induction) could appear sometimes, too. A lot of preventive safety activities, both for the environment, as well as for the human operators, are necessary. A true and fair assessment of the electric field intensity in the proximity of these facilities is mandatory, before adopting some new design features or limiting the human exposure. This paper will present a few measurements of the electric field intensity, performed by our team at the Fantanele 220 kV/110 kV/20 kV Power Station, located in Central Transylvania, Romania, belonging to the National Romanian Power Grid Operator, TRANSELECTRICA S.A. Our case study will also be completed with some electric field measurements, for a better perspective on the electromagnetic field parameters. Data will also be used for the refurbishment of the existing power facilities across Romania and for a future digital mapping of this high-risk power objectives.
+ER  - 
+
+TY  - CONF
+TI  - Electromagnetic fields simulation on distribution feeders
+T2  - 2015 IEEE NW Russia Young Researchers in Electrical and Electronic Engineering Conference (EIConRusNW)
+SP  - 245
+EP  - 250
+AU  - J. A. Morales
+AU  - P. Gavela
+AU  - N. Morales
+AU  - J. C. Montesdeoca
+PY  - 2015
+KW  - Magnetic analysis
+KW  - Magnetic domains
+KW  - Communities
+KW  - Conductors
+KW  - simulation
+KW  - field determination
+KW  - radiation
+DO  - 10.1109/EIConRusNW.2015.7102271
+JO  - 2015 IEEE NW Russia Young Researchers in Electrical and Electronic Engineering Conference (EIConRusNW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE NW Russia Young Researchers in Electrical and Electronic Engineering Conference (EIConRusNW)
+Y1  - 2-4 Feb. 2015
+AB  - It is well known that electromagnetic fields (EMF) are presented or produced on Utilities elements especially distribution feeders (DFs), which due to the demand, these have increased their capacity. However, DFs are operating near of their limits, which have produced an increase in EMF values, being a preoccupation for their possible effects on the human health. In this context, it is necessary to determine EMF values, which are exposed the population in order to guarantee the functioning of Utilities. In this research by using the Quickfield software based on Finite Elements (FE), EMF values on distribution feeders corresponding to three real electrical substations are determined. Furthermore, these simulated values are compared with measured values and reference threshold values suggested by international norms. Results show that the simulation procedure is effective to determine EMF on distribution feeders.
+ER  - 
+
+TY  - CONF
+TI  - A method of reporting distribution field inspection data
+T2  - 1997 Rural Electric Power Conference (Cat. No.97CH36079)
+SP  - A3
+EP  - 1
+AU  - T. E. Nigon
+PY  - 1997
+KW  - Inspection
+KW  - Databases
+KW  - Network servers
+KW  - Capacitors
+KW  - Regulators
+KW  - Personnel
+KW  - Sorting
+KW  - Substations
+KW  - Customer service
+KW  - Mice
+DO  - 10.1109/REPCON.1997.595589
+JO  - 1997 Rural Electric Power Conference (Cat. No.97CH36079)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 1997 Rural Electric Power Conference (Cat. No.97CH36079)
+Y1  - 20-22 April 1997
+AB  - This paper describes the process of developing a method to report electric distribution field inspection data that is collected in various headquarters located in the NSP-Wisconsin service territory. The electric distribution inspection data include, field observations on equipment conditions, amp and voltage measurements taken from capacitors, recloser, and voltage regulators and other information taken by field personnel when inspecting distribution facilities. The electric distribution area covers approximately 20000 square miles in Western Wisconsin with a combination of urban and rural customers. The field inspection data is collected and entered in field or office computers. The data is stored in a central server and is available to all employees. Reports are created after the inspection data is collected The reports have information that can be used to improve the reliability and performance of the electric distribution. The benefits of this method of reporting information are that the data is available for all users, work that needs to be done is shown on the reports, and the information can be quickly reviewed using the computer instead of sorting through paper records. This paper shows how reports can be created using a database program and how the reports can be used to improve the electric distribution system.
+ER  - 
+
+TY  - CONF
+TI  - Induced currents in the human body resulting from the proximity to surfaces at fixed potentials
+T2  - 2007 15th International Conference on Software, Telecommunications and Computer Networks
+SP  - 1
+EP  - 5
+AU  - C. Gonzalez
+AU  - A. Peratta
+AU  - D. Poljak
+PY  - 2007
+KW  - Humans
+KW  - Biological system modeling
+KW  - Current density
+KW  - Frequency
+KW  - Numerical models
+KW  - Voltage control
+KW  - Keyboards
+KW  - Substations
+KW  - Boundary element methods
+KW  - Kernel
+DO  - 10.1109/SOFTCOM.2007.4446080
+JO  - 2007 15th International Conference on Software, Telecommunications and Computer Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 15th International Conference on Software, Telecommunications and Computer Networks
+Y1  - 27-29 Sept. 2007
+AB  - The paper evaluates the currents induced in the human body when exposed to extremely low frequency (60 Hz) electric fields by numerical modelling with boundary elements. The exposure is driven by the voltage of a rectangular panel representing the control keyboard of a power substation room. The main focus is to study the variations of the current density along the vertical axis of the body when located at different distances from the panel. In addition, the sensitivity of the results for the current density when considering the human body with and without its internal organs is estimated. The numerical approach is based on the three dimensional boundary element method (BEM) with the kernel of Laplace equation, in which the human body model considered is a simplified representation which allows parametric modifications of its geometry and physical properties.
+ER  - 
+
+TY  - CONF
+TI  - Working clothes detection of substation workers based on the image processing
+T2  - 2017 Ninth International Conference on Advanced Computational Intelligence (ICACI)
+SP  - 180
+EP  - 184
+AU  - J. Li
+AU  - T. Wang
+AU  - Y. Li
+AU  - Y. Tian
+AU  - S. Wang
+AU  - M. Zhang
+AU  - Y. Zhai
+AU  - S. Sun
+AU  - X. Zhao
+PY  - 2017
+KW  - Image color analysis
+KW  - Feature extraction
+KW  - Substations
+KW  - Graphical models
+KW  - Distribution functions
+KW  - Support vector machines
+KW  - HOG
+KW  - color spatial distribution compactness(CSDC)
+KW  - HSV color space
+KW  - substation
+KW  - working clothes
+DO  - 10.1109/ICACI.2017.7974505
+JO  - 2017 Ninth International Conference on Advanced Computational Intelligence (ICACI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 Ninth International Conference on Advanced Computational Intelligence (ICACI)
+Y1  - 4-6 Feb. 2017
+AB  - On account of the substation is a basis and important element of the power system, its maintenance plays a pivotal role in the stable operation of power grid. As the maintainer of the substation, the on-site staffs work long-term in strong electromagnetic field environment. Therefore, it is necessary to wear the working clothes strictly. In order to strengthen the working clothes wearing circumstance supervision, its better to carry out the real-time supervision on the on-site staffs. In this paper, a video-based working clothes wearing circumstance detection method was put forward. Firstly, we extract characteristics by HOG(Histogram of Oriented Gradient) method and the color spatial distribution compactness presented in this paper. Secondly, the SVM(Support Vector Machine) classifier is trained to realize the substation maintainer detection. Finally, we model the electricity working clothes in the HSV(Hue, Saturation, Value) color space and combine the performance characteristics to get the final results. The experimental results demonstrate that this method has a high accuracy in the substation surveillance video.
+ER  - 
+
+TY  - CONF
+TI  - Double circuit 110 kV overhead line magnetic field analysis
+T2  - 2012 16th IEEE Mediterranean Electrotechnical Conference
+SP  - 780
+EP  - 783
+AU  - F. Molnar-Matei
+AU  - P. Andea
+AU  - A. Pana
+AU  - R. Teslovan
+PY  - 2012
+KW  - Magnetic circuits
+KW  - Magnetic fields
+KW  - Conductors
+KW  - Rail transportation
+KW  - Substations
+KW  - Calculus
+KW  - Feeds
+DO  - 10.1109/MELCON.2012.6196546
+JO  - 2012 16th IEEE Mediterranean Electrotechnical Conference
+IS  - 
+SN  - 2158-8481
+VO  - 
+VL  - 
+JA  - 2012 16th IEEE Mediterranean Electrotechnical Conference
+Y1  - 25-28 March 2012
+AB  - It's very good know the interest of those that design and construct the overhead lines to attenuate the magnetic field around these, especially to earth level, because it is possible to have impact to human body. On this line one of methods there are use for reduce the magnetic field is compacting the overhead lines, such as sizing two circuits with different function on the same pole [1]. Optimizing the arrangement of phase conductors for both circuits, it is possible to achieve a sensible mitigation of magnetic field near the overhead lines. In this paper the overhead line contain two 110 kV circuits, first that feed a distribution substation and second that feed a railway substation. It is considered an application who use the overhead lines who feed the Ghiroda - Timisoara railway substation presented in [2] with a single circuit 110 kV overhead line for distribution, and it calculate the magnetic field value considering succeeding all the possible configurations that can be realized commutating the two conductors of railway circuit. It is finding that exist some situations when mitigation of the field is very relevant. These situations can be considered to the design and construct of the overhead lines for mitigation the impact of electromagnetic field produce by overhead line.
+ER  - 
+
+TY  - CONF
+TI  - Development of management system for bushing UV imaging detection
+T2  - 22nd International Symposium on High Voltage Engineering (ISH 2021)
+SP  - 1816
+EP  - 1819
+AU  - Y. Chen
+AU  - Z. Gao
+AU  - M. Xv
+AU  - X. Lu
+AU  - L. Niu
+PY  - 2021
+DO  - 10.1049/icp.2022.0177
+JO  - 22nd International Symposium on High Voltage Engineering (ISH 2021)
+IS  - 
+SN  - 
+VO  - 2021
+VL  - 2021
+JA  - 22nd International Symposium on High Voltage Engineering (ISH 2021)
+Y1  - 21-26 Nov. 2021
+AB  - The insulation state of electrical bushing is related to the safety of power grid. To diagnose the insulation state of the in-field bushing, an intelligent diagnosis framework based on artificial intelligence is designed; the B/S development mode manages the UV images and videos of bushing discharge, and develops a set of image and video management data According to the database system, the database management system of UV imaging samples is constructed, which integrates the function of bushing recognition and discharge severity assessment based on UV image. The developed software is applied to the inspection of transmission lines and substations with good application result.
+ER  - 
+
+TY  - CONF
+TI  - Research on online monitoring of arrester
+T2  - CICED 2010 Proceedings
+SP  - 1
+EP  - 6
+AU  - Jun Ju
+AU  - Yu Wang
+PY  - 2010
+KW  - Arresters
+KW  - Wireless communication
+KW  - Cryptography
+KW  - Monitoring
+KW  - Isolators
+KW  - Medical services
+KW  - Microprocessors
+KW  - arrester
+KW  - online monitor
+KW  - Zigbee
+KW  - intelligence experts warning
+DO  - 
+JO  - CICED 2010 Proceedings
+IS  - 
+SN  - 2161-749X
+VO  - 
+VL  - 
+JA  - CICED 2010 Proceedings
+Y1  - 13-16 Sept. 2010
+AB  - State Grid Corporation of China(SGCC) proposed to build the unified strong smart grid with Chinese characteristics, that is the maintenance of electrical equipments has been gradually breaking human-controlled mode, transforming into smart mode and real-time monitoring of various equipments in substation. Besides, the condition intelligence judgment is one of center links. And the zinc oxide arrester is one kind of important overvoltage protector. Because of the superior nonlinear and protective value, it has been widely used in power system. However, the zinc oxide arrester doesn't have the discharge gap, the valve will gradually deteriorate in the effect of long-term running voltage or the arrester will be affected with damp for itself bad structure. These will cause the arrester's leakage current to increase, or cause the electric operational accident for the thermal runaway in critical condition. The traditional method is manual periodic patrol, inspection and transcript. It's not convenient to use and manage which makes operators to do much more and inefficient. What's more, it can't grasp the safe state of the arrester promptly and accurately. This article studies one kind of system to real-time acquire, transmit, preserve, manage and share the information such as the zinc oxide arrester's leakage current, the lightning frequency and timing. And form an information management system of the zinc oxide arrester's leakage current. All the related personnel can inquire the state of all the zinc oxide arrester, of course, it increases the work efficiency. Compared with other methods, this system has the simple structure and dependable performance, and can be used in the substation of strong interference of electromagnetic field.
+ER  - 
+
+TY  - JOUR
+TI  - An Investigation of Earth Grid Performance Using Graphene-Coated Copper
+T2  - IEEE Access
+SP  - 1042
+EP  - 1050
+AU  - A. J. Datta
+AU  - R. Taylor
+AU  - G. Will
+AU  - G. Ledwich
+PY  - 2015
+KW  - Power grids
+KW  - Power generation planning
+KW  - Earth
+KW  - Graphene
+KW  - Biological system modeling
+KW  - Corrosion
+KW  - Conductivity
+KW  - Power system reliability
+KW  - Lightning
+KW  - Electric potential
+KW  - Earth grid
+KW  - Graphene
+KW  - Tube furnace
+KW  - Earth grid
+KW  - graphene
+KW  - tube furnace
+KW  - scanning electron microscopy
+KW  - Raman microscopy
+KW  - electrochemical impedance spectroscopy
+KW  - Nyquist plot
+KW  - bode plot
+KW  - soil resistivity
+KW  - electric field
+KW  - impedance matching
+DO  - 10.1109/ACCESS.2015.2454295
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 3
+VL  - 3
+JA  - IEEE Access
+Y1  - 2015
+AB  - Large power systems are normally operated with their neutral points directly earthed. At a major generating or switching station, this results in the provision of a large earth grid buried in the ground. The design of earthing systems requires a worst case approach. There is a possibility of heavy currents flowing into the earth grid from the overhead earth wires through the tower during a line conductor fault and from lightning strikes. The flow of earth current during a fault or lightning conditions results in a rise of earth grid potential with respect to a physically remote earth point, which can lead to unsafe conditions under some conditions for personnel and connected electrical plant. This paper aims to investigate the potential of adding novel coatings to the conventional copper earth grid conductors to enhance overall conductivity and diminish corrosion. This contributes to lowering the rise of earth grid potential. Graphene-coated copper performance as an earth grid conductor is evaluated with staged low voltage fault and the corrosion behavior in both a destructive and nondestructive environment. A comparison of the simulation software packages CDEGS and CST is also carried out using lightning strike conditions.
+ER  - 
+
+TY  - CONF
+TI  - Development of 66kV New Rotating Grounding Insulating Rod
+T2  - 2021 3rd International Academic Exchange Conference on Science and Technology Innovation (IAECST)
+SP  - 1910
+EP  - 1913
+AU  - L. Li
+AU  - X. Li
+AU  - Y. Zhang
+AU  - Y. Sun
+AU  - S. Yang
+PY  - 2021
+KW  - Technological innovation
+KW  - Power transmission lines
+KW  - Grounding
+KW  - Wires
+KW  - Poles and towers
+KW  - Voltage
+KW  - Maintenance engineering
+KW  - Transmission line
+KW  - Power-cut Work
+KW  - New type insulated blade
+KW  - rotatable
+KW  - spherical
+KW  - Pan-Tilt
+DO  - 10.1109/IAECST54258.2021.9695794
+JO  - 2021 3rd International Academic Exchange Conference on Science and Technology Innovation (IAECST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 3rd International Academic Exchange Conference on Science and Technology Innovation (IAECST)
+Y1  - 10-12 Dec. 2021
+AB  - the conventional 66kV grounding insulating rod hanging and dismantling the grounding wire can not meet the maintenance of 66kV power cut transmission lines and equipment in a variety of tower types and operation positions. In order to meet the maintenance of transmission lines and equipment in various environments of 66kV power failure, a new 66kV rotatable grounding insulating rod will be developed in this paper, which will be improved and innovated in the two directions of chain and PTZ structure. Through the comparative and comparative experimental methods, the experimental results show that the PTZ structure is adopted as a new 66kV rotatable grounding insulating rod from the perspectives of efficiency, safety and economy. The improvement scheme shortens the time of hanging and removing the grounding wire for 66kV power outage maintenance, greatly reduces the operation difficulty, improves the operation efficiency, and further improves the safety of personnel, power network and equipment.
+ER  - 
+
+TY  - JOUR
+TI  - Lightning Current Performance of Conventional and Enhanced Rod Ground Electrodes
+T2  - IEEE Transactions on Electromagnetic Compatibility
+SP  - 1179
+EP  - 1188
+AU  - D. Clark
+AU  - S. Mousa
+AU  - N. Harid
+AU  - H. Griffiths
+AU  - A. Haddad
+PY  - 2021
+KW  - Electrodes
+KW  - Resistance
+KW  - Soil
+KW  - Grounding
+KW  - Current measurement
+KW  - Generators
+KW  - Lightning
+KW  - High-frequency rods
+KW  - impulse impedance
+KW  - lightning
+KW  - grounding
+KW  - rod electrodes
+KW  - soil ionization
+DO  - 10.1109/TEMC.2021.3059277
+JO  - IEEE Transactions on Electromagnetic Compatibility
+IS  - 4
+SN  - 1558-187X
+VO  - 63
+VL  - 63
+JA  - IEEE Transactions on Electromagnetic Compatibility
+Y1  - Aug. 2021
+AB  - The correct operation of surge arresters under lightning and switching transient conditions requires that grounding be effective at high frequencies as well as at power system frequency. Effective high frequency grounding also limits the electrocution risk to substation personnel due to transient ground potential rise. This article assesses the performance of high frequency electrodes at typical lightning impulse current magnitudes. The enhancement of such electrodes by addition of bonded horizontal arms in cross and star arrangement is also investigated. The effective impulse resistances for electrodes having lengths up to 4.8 m are calculated over a range of impulse current magnitudes at the same location. The results obtained indicate that, for low impulse current magnitudes, the preionization electrode's resistance (R1) falls with increasing rod length, a behavior reflected in the measured dc resistance. The presence of horizontal enhancement was found to reduce R1 in all cases. The occurrence of soil ionization in the immediate vicinity of the electrode resulted in a reduced postionization resistance (R2) at higher currents, tending toward a common asymptotic value independent of both the length of the rod and the presence of electrode enhancements. The observed behavior is supported by numerical simulation of electric field and current density distributions, indicating that the high current performance of a grounding rod is heavily influenced by soil ionization and breakdown in high-field regions at the electrode extremities.
+ER  - 
+
+TY  - CONF
+TI  - Improving the life cycle management of power transformers transforming data to life
+T2  - SoutheastCon 2015
+SP  - 1
+EP  - 7
+AU  - N. T. Waugh
+AU  - D. D. Muir
+PY  - 2015
+KW  - Power transformers
+KW  - Market research
+KW  - Computers
+KW  - Oil insulation
+KW  - Propagation losses
+KW  - Maintenance engineering
+KW  - Companies
+KW  - Power transformers
+KW  - life cycle management
+KW  - diagnostic software
+KW  - failure
+KW  - oil tests
+KW  - electrical field tests
+DO  - 10.1109/SECON.2015.7132977
+JO  - SoutheastCon 2015
+IS  - 
+SN  - 1558-058X
+VO  - 
+VL  - 
+JA  - SoutheastCon 2015
+Y1  - 9-12 April 2015
+AB  - Power transformers are essential in the transmission of alternating current and are the most costly equipment in the substation. Although their failure rate is relatively low (less than two percent), the in-service failure of a power transformer can be very catastrophic. The restoration cost of in-service power transformer failures increases by up to seventy-five percent and loss of revenue by sixty percent. It is therefore prudent for utility companies to optimize the life of power transformers and mitigate in-service failures. “Early Detection Saves Lives”, a slogan associated with the fight against cancer is also very relevant to the life cycle management of power transformers. The health of the power transformer is reflected through its insulation strength. There are several on-line and offline tests used to assess the health of power transformer. These give rise to an enormous amount of data to be analyzed. Many utilities manually analyze these results and only focus on the most recent test results. This method of analysis is time consuming and is subject to human error. It abets the back-log of testing and not correcting developing faults in a timely manner. There are benefits that can be gained from using a computer program to store, analyze and trend power transformer data, as well as predict and monitor developing power transformer faults. Software are available to test and monitor power transformer oil via online devices; while other maintenance software analyze single electrical field tests. There is the potential to gain greater benefits from having one computer program that incorporates oil and electrical field tests results, as well as the age, loading and inspection data of the power transformers to determine their health status or condition index. This paper outlines the proposed architecture and features of a custom built Power Transformer Maintenance Software (PTMS). PTMS facilitates a paradigm shift from reactive maintenance (such as practiced at the Jamaica Public Service Company Limited) to a predictive maintenance approach. This study proposes the use of a customized integrated data management system to improve the life cycle management of power transformers.
+ER  - 
+
+TY  - CONF
+TI  - Intelligence Expert System of Transformer Running State Diagnosis Based on Acoustic Signal Analyzing
+T2  - 2009 Second International Symposium on Knowledge Acquisition and Modeling
+SP  - 52
+EP  - 55
+AU  - S. Zhao
+AU  - L. Pan
+AU  - Q. Jiang
+AU  - B. Li
+AU  - G. Cui
+PY  - 2009
+KW  - Intelligent systems
+KW  - Diagnostic expert systems
+KW  - Signal analysis
+KW  - Fault diagnosis
+KW  - Acoustic waves
+KW  - Algorithm design and analysis
+KW  - Power transformers
+KW  - Noise reduction
+KW  - Signal processing algorithms
+KW  - Genetic mutations
+KW  - transformer
+KW  - running state diagnosis
+KW  - expert system
+KW  - acoustic signal
+KW  - wavelet package
+DO  - 10.1109/KAM.2009.153
+JO  - 2009 Second International Symposium on Knowledge Acquisition and Modeling
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - 2009 Second International Symposium on Knowledge Acquisition and Modeling
+Y1  - 30 Nov.-1 Dec. 2009
+AB  - There are many kinds of external phenomena with power equipments running state changing, and one of the important characters is acoustic signal mutation when power transformer would get out of order. But it is difficult to judge the acoustic change degree and describe the failure character scientifically only by human subjective sensation. The acoustic monitoring can be realized with non-contact measurement, the committed step is the acoustic signal processing, and intelligence fault diagnosis scheme is presented in this thesis. After acoustic signal collected in substation, the layer threshold de-noising algorithm is utilized, the signal characteristics based on wavelet package is extracted to be the gist of knowledge acquisition and consequence, and the fault diagnosis expert system is designed by acoustic quantative analysis. Through acoustic signal analyzing experiments, the effects of the de-noising algorithm and signal characteristics extraction method have been verified. The acoustic wave diagnosis expert system can solve many problems because of the high voltage and powerful electromagnetic field of the power system, and it would be a good reference to many power equipment fault identify.
+ER  - 
+
+TY  - JOUR
+TI  - Metal-clad unit-type switchgear for 33-kv service
+T2  - Electrical Engineering
+SP  - 360
+EP  - 368
+AU  - C. H. Kreger
+PY  - 1946
+KW  - Insulators
+KW  - Switchgear
+KW  - Gears
+KW  - Gaskets
+KW  - Metals
+KW  - Porcelain
+KW  - Reliability
+DO  - 10.1109/EE.1946.6441729
+JO  - Electrical Engineering
+IS  - 6
+SN  - 2376-7804
+VO  - 65
+VL  - 65
+JA  - Electrical Engineering
+Y1  - June 1946
+AB  - The experience of the Public Service Company of Northern Illinois with metal-clad switchgear has been outstanding, both from the standpoint of reliability of operation and safety to personnel, two of the principal objectives sought by the engineers of the company when they pioneered this type of equipment. This equipment has been applicable not only to the voltage classes up to and including 15,000 volts, but also in the 33,000-volt class, of which the company has seven major installations which have been in service from 13 to 16 years. This report of experience with 33-kv metal-clad switchgear is offered as proof that development and use should be resumed and continued in what is undoubtedly a fertile field for the application of principles which are now generally accepted. It is not a detailed discussion of the design and construction of metal-clad equipment, but rather a factual record of progress already made and proved by 13 years of operating experience. Conclusions drawn from this report are that the main objectives sought after in the development of metal-clad type of switchgear have been obtained satisfactorily. Experience has demonstrated clearly its outstanding operating reliability as compared with the conventional open type, and its perfect safety record for operating and maintenance personnel has been made possible by the inherent safety features which are practical only in metal-clad equipment. If these and other factors which cannot be evaluated precisely are taken into consideration and if the further exploitation in the post-war period of materials and methods developed during the war is kept in mind, it would appear that there is no question about the continued development of metal-clad type of switchgear in all voltage classes. Repetitive manufacturing, standardization, and prefabrication are some of the most potent means of combating the continually rising cost of electrical station and substation installations. The electrical equipment manufacturers are applying these principles to a growing extent and are promoting their use throughout the industry. The principles, of course, are not new, the present movement being directed mainly toward a more intensive and wide-spread application. Neither the manufacturer nor the utilities can afford to neglect any application of these principles that can be justified economically.
+ER  - 
+
+

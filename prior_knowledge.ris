@@ -1,0 +1,397 @@
+TY  - JOUR
+T1  - Engineering societies library
+JO  - Journal of the American Institute of Electrical Engineers
+Y1  - 1921
+VL  - 40
+IS  - 7
+SP  - 615–617
+EP  - 615–617
+M3  - https://doi.org/10.1109/JoAIEE.1921.6591227
+KW  - Companies
+KW  - Educational institutions
+KW  - Books
+KW  - Substations
+KW  - Libraries
+KW  - Induction motors
+U1  - 2376-7723
+N1  - ASReview_irrelevant
+N2  - The library is a cooperative activity of the American Institute of Electrical Engineers, the American Society of Civil Engineers, the American Institute of Mining and Metallurgical Engineers and the American Society of Mechanical Engineers. It is administered for these Founder Societies by the United Engineering Society, as a public reference library of engineering and the allied sciences. It contains 150,000 volumes and pamphlets and receives currently most of the important periodicals in its field. It is housed in the Engineering Societies Building, 29 West Thirtyninth St., New York. In order to place the resources of the Library at the disposal of those unable to visit it in person, the Library is prepared to furnish lists of references to engineering subjects, copies or translations of articles, and similar assistance. Charges sufficient to cover the cost of this work are made. The Director of the Library will gladly give information concerning charges for the various kinds of service to those interested. In asking for information, letters should be made as definite as possible, so that the investigator may understand clearly what is desired. The library is open from 9 a. m. to 10 p. m. on all week days except holidays throughout the year except during July and August when the hours are 9 a. m. to 6 p. m.
+ER  -
+TY  - GEN
+T1  - IEEE Recommended Practice for Measurements and Computations of Electric, Magnetic, and Electromagnetic Fields with Respect to Human Exposure to Such Fields, 0 Hz to 300 GHz
+JO  - IEEE Std C95.3-2021 (Revision of IEEE Std C95.3-2002 and IEEE Std C95.3.1-2010)
+Y1  - 2021
+SP  - 1
+EP  - 240
+M3  - https://doi.org/10.1109/IEEESTD.2021.9444273
+L1  - /home/phnvieira/Documents/doutorado/bibliografia/ieee-recommended-practice-for-measurements-and-computations-of-e.pdf
+N1  - ASReview_relevant
+N2  - Best practices are described for the development, validation, and application of methods for the computation and measurement of relevant metrics characterizing human exposure to electric and/or magnetic fields (collectively, electromagnetic fields) over the frequency range of 0 Hz to 300 GHz. This recommended practice is a replacement for IEEE Std C95.3TM-2002 and IEEE Std C95.3.1TM-2010, extensively revising the contents from those and harmonizing with IEEE Std C95.1TM-2019. Detailed methodology is not described; rather, requirements for best practice are expressed through guidance and references to other documents and standards. Examples are included to clarify the guidance. This recommended practice is intended for professional users who are familiar with basic electromagnetic field theory and practice and for persons involved in specifying or implementing critical hazard assessments or surveys such as those described in IEEE Std C95.7TM-2014.
+ER  -
+TY  - JOUR
+AU  - Clark, D.
+AU  - Mousa, S.
+AU  - Harid, N.
+AU  - Griffiths, H.
+AU  - Haddad, A.
+T1  - Lightning Current Performance of Conventional and Enhanced Rod Ground Electrodes
+JO  - IEEE Transactions on Electromagnetic Compatibility
+Y1  - 2021
+VL  - 63
+IS  - 4
+SP  - 1179–1188
+EP  - 1179–1188
+M3  - https://doi.org/10.1109/TEMC.2021.3059277
+KW  - Electrodes
+KW  - Resistance
+KW  - Soil
+KW  - Grounding
+KW  - Current measurement
+KW  - Generators
+KW  - Lightning
+KW  - High-frequency rods
+KW  - impulse impedance
+KW  - lightning
+KW  - grounding
+KW  - rod electrodes
+KW  - soil ionization
+U1  - 1558-187X
+N1  - ASReview_irrelevant
+N2  - The correct operation of surge arresters under lightning and switching transient conditions requires that grounding be effective at high frequencies as well as at power system frequency. Effective high frequency grounding also limits the electrocution risk to substation personnel due to transient ground potential rise. This article assesses the performance of high frequency electrodes at typical lightning impulse current magnitudes. The enhancement of such electrodes by addition of bonded horizontal arms in cross and star arrangement is also investigated. The effective impulse resistances for electrodes having lengths up to 4.8 m are calculated over a range of impulse current magnitudes at the same location. The results obtained indicate that, for low impulse current magnitudes, the preionization electrode's resistance (R1) falls with increasing rod length, a behavior reflected in the measured dc resistance. The presence of horizontal enhancement was found to reduce R1 in all cases. The occurrence of soil ionization in the immediate vicinity of the electrode resulted in a reduced postionization resistance (R2) at higher currents, tending toward a common asymptotic value independent of both the length of the rod and the presence of electrode enhancements. The observed behavior is supported by numerical simulation of electric field and current density distributions, indicating that the high current performance of a grounding rod is heavily influenced by soil ionization and breakdown in high-field regions at the electrode extremities.
+ER  -
+TY  - JOUR
+AU  - Datta, A. J.
+AU  - Taylor, R.
+AU  - Will, G.
+AU  - Ledwich, G.
+T1  - An Investigation of Earth Grid Performance Using Graphene-Coated Copper
+JO  - IEEE Access
+Y1  - 2015
+VL  - 3
+SP  - 1042–1050
+EP  - 1042–1050
+M3  - https://doi.org/10.1109/ACCESS.2015.2454295
+KW  - Power grids
+KW  - Power generation planning
+KW  - Earth
+KW  - Graphene
+KW  - Biological system modeling
+KW  - Corrosion
+KW  - Conductivity
+KW  - Power system reliability
+KW  - Lightning
+KW  - Electric potential
+KW  - Earth grid
+KW  - Tube furnace
+KW  - graphene
+KW  - tube furnace
+KW  - scanning electron microscopy
+KW  - Raman microscopy
+KW  - electrochemical impedance spectroscopy
+KW  - Nyquist plot
+KW  - bode plot
+KW  - soil resistivity
+KW  - electric field
+KW  - impedance matching
+U1  - 2169-3536
+N1  - ASReview_irrelevant
+N2  - Large power systems are normally operated with their neutral points directly earthed. At a major generating or switching station, this results in the provision of a large earth grid buried in the ground. The design of earthing systems requires a worst case approach. There is a possibility of heavy currents flowing into the earth grid from the overhead earth wires through the tower during a line conductor fault and from lightning strikes. The flow of earth current during a fault or lightning conditions results in a rise of earth grid potential with respect to a physically remote earth point, which can lead to unsafe conditions under some conditions for personnel and connected electrical plant. This paper aims to investigate the potential of adding novel coatings to the conventional copper earth grid conductors to enhance overall conductivity and diminish corrosion. This contributes to lowering the rise of earth grid potential. Graphene-coated copper performance as an earth grid conductor is evaluated with staged low voltage fault and the corrosion behavior in both a destructive and nondestructive environment. A comparison of the simulation software packages CDEGS and CST is also carried out using lightning strike conditions.
+ER  -
+TY  - JOUR
+AU  - Fang, Yaqi
+AU  - Rehman, Habibur
+AU  - Xiao, Bin
+AU  - Wu, Tian
+AU  - Liu, Kai
+AU  - Wang, Linong
+T1  - 1000-kV UHV substation live working and safety recommendations
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+Y1  - 2018
+VL  - 13
+IS  - 9
+SP  - 1245
+EP  - 1254
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22690
+M3  - https://doi.org/10.1002/tee.22690
+KW  - 1000-kV substation
+KW  - electric field measurement
+KW  - finite element analysis
+KW  - live working
+KW  - shielding efficiency
+L1  - 1000-kV UHV substation live working and safety recommendations.pdf
+N1  - ASReview_relevant
+N2  - This work focuses on the measurement and analysis of the electric field for live working in a 1000-kV substation. Also, it compares the electric field and the shielding efficiency requirement of a 1000-kV substation with 1000-kV transmission lines. The electric field at the ground potential of the substation was measured using a microelectromechanical system (MEMS)-based device. However, for safety reasons and to acquire rigorous data, finite element method (FEM) was applied to calculate the electric field at equipotential. Two cases of entry into equipotential were considered: one in which the worker moves along tension insulators to live conductors, and another where the worker is lifted to an energized bus bar on an insulated elevating platform. Our results indicate that the electric field values on the worker in the 1000-kV substation and transmission lines are about the same at ground potential, while at equipotential, the substation's maximum electric field is 25.2% higher outside the conductive clothing and 47.4% higher outside the metallic mask as compared to the 1000-kV transmission lines. Based on these results, for live working in a 1000-kV substation, we recommend the use of conductive clothing with 60-dB shielding efficiency, which is similar to that used in live working on a 1000-kV transmission line, but the metallic mask should have 25-dB shielding efficiency, which is 5 dB higher than that used for the transmission line. © 2018 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.
+ER  -
+TY  - CONF
+AU  - Harimurugan, D.
+AU  - Punekar, G. S.
+AU  - Kishore, N. K.
+T1  - Electric stress on the surface of conductors in an Extra High Voltage substation
+T2  - 2018 20th National Power Systems Conference (NPSC)
+Y1  - 2018
+SP  - 1
+EP  - 4
+M3  - https://doi.org/10.1109/NPSC.2018.8771766
+KW  - charge simulation
+L1  - Electric stress on the surface of conductors in an Extra High Voltage substation.pdf
+N1  - ASReview_irrelevant
+N2  - In high voltage equipment and substations, the electric field distribution on the surface of the conductor is important from the point of designing the insulation systems. In outdoor substation, the atmospheric air acts as an insulation medium and the electric-fields (e-fields) on the surface of the conductors should not exceed the breakdown strength of air (2122 kV/m rms). Based on the analysis of surface e-fields of substation conductors, one can adjudge whether any redesign in terms of conductor effective radius and clearances are required. One such analysis of surface e-fields in a 765 kV substation in central India is carried out. Charge Simulation Method (CSM) is used as a numerical technique. The surface e-field plot on the substation conductors are reported. The highest e-fields are on the surface of transmission line conductors with 1504 kV/m. Thus, the design should work corona free.
+ER  -
+TY  - JOUR
+AU  - Kreger, C. H.
+T1  - Metal-clad unit-type switchgear for 33-kv service
+JO  - Electrical Engineering
+Y1  - 1946
+VL  - 65
+IS  - 6
+SP  - 360–368
+EP  - 360–368
+M3  - https://doi.org/10.1109/EE.1946.6441729
+KW  - Insulators
+KW  - Switchgear
+KW  - Gears
+KW  - Gaskets
+KW  - Metals
+KW  - Porcelain
+KW  - Reliability
+U1  - 2376-7804
+N1  - ASReview_irrelevant
+N2  - The experience of the Public Service Company of Northern Illinois with metal-clad switchgear has been outstanding, both from the standpoint of reliability of operation and safety to personnel, two of the principal objectives sought by the engineers of the company when they pioneered this type of equipment. This equipment has been applicable not only to the voltage classes up to and including 15,000 volts, but also in the 33,000-volt class, of which the company has seven major installations which have been in service from 13 to 16 years. This report of experience with 33-kv metal-clad switchgear is offered as proof that development and use should be resumed and continued in what is undoubtedly a fertile field for the application of principles which are now generally accepted. It is not a detailed discussion of the design and construction of metal-clad equipment, but rather a factual record of progress already made and proved by 13 years of operating experience. Conclusions drawn from this report are that the main objectives sought after in the development of metal-clad type of switchgear have been obtained satisfactorily. Experience has demonstrated clearly its outstanding operating reliability as compared with the conventional open type, and its perfect safety record for operating and maintenance personnel has been made possible by the inherent safety features which are practical only in metal-clad equipment. If these and other factors which cannot be evaluated precisely are taken into consideration and if the further exploitation in the post-war period of materials and methods developed during the war is kept in mind, it would appear that there is no question about the continued development of metal-clad type of switchgear in all voltage classes. Repetitive manufacturing, standardization, and prefabrication are some of the most potent means of combating the continually rising cost of electrical station and substation installations. The electrical equipment manufacturers are applying these principles to a growing extent and are promoting their use throughout the industry. The principles, of course, are not new, the present movement being directed mainly toward a more intensive and wide-spread application. Neither the manufacturer nor the utilities can afford to neglect any application of these principles that can be justified economically.
+ER  -
+TY  - CONF
+AU  - Li, L.
+AU  - Li, X.
+AU  - Zhang, Y.
+AU  - Sun, Y.
+AU  - Yang, S.
+T1  - Development of 66kV New Rotating Grounding Insulating Rod
+T2  - 2021 3rd International Academic Exchange Conference on Science and Technology Innovation (IAECST)
+Y1  - 2021
+SP  - 1910–1913
+EP  - 1910–1913
+M3  - https://doi.org/10.1109/IAECST54258.2021.9695794
+KW  - Technological innovation
+KW  - Power transmission lines
+KW  - Grounding
+KW  - Wires
+KW  - Poles and towers
+KW  - Voltage
+KW  - Maintenance engineering
+KW  - Transmission line
+KW  - Power-cut Work
+KW  - New type insulated blade
+KW  - rotatable
+KW  - spherical
+KW  - Pan-Tilt
+N1  - ASReview_irrelevant
+N2  - the conventional 66kV grounding insulating rod hanging and dismantling the grounding wire can not meet the maintenance of 66kV power cut transmission lines and equipment in a variety of tower types and operation positions. In order to meet the maintenance of transmission lines and equipment in various environments of 66kV power failure, a new 66kV rotatable grounding insulating rod will be developed in this paper, which will be improved and innovated in the two directions of chain and PTZ structure. Through the comparative and comparative experimental methods, the experimental results show that the PTZ structure is adopted as a new 66kV rotatable grounding insulating rod from the perspectives of efficiency, safety and economy. The improvement scheme shortens the time of hanging and removing the grounding wire for 66kV power outage maintenance, greatly reduces the operation difficulty, improves the operation efficiency, and further improves the safety of personnel, power network and equipment.
+ER  -
+TY  - CONF
+AU  - Liao, Jintao
+AU  - Peng, Zongren
+AU  - Zhang, Liangxian
+AU  - Zhang, Shiling
+AU  - Li, Naiyi
+AU  - Li, Jing
+T1  - Electric Field distribution on four-bundle conductors in 750 kV AC substation
+T2  - 2012 IEEE 10th International Conference on the Properties and Applications of Dielectric Materials
+Y1  - 2012
+SP  - 1
+EP  - 4
+M3  - https://doi.org/10.1109/ICPADM.2012.6318942
+L1  - Electric Field distribution on four-bundle conductors in 750 kV AC substation.pdf
+N1  - ASReview_irrelevant
+N2  - In high altitude areas of northwest China, the corona activity of conductors is serious in 750 kV AC substations, which may lead to severe electromagnetic environmental problems. According to the research and field experience, determination of adequate parameters of conductors is intended to solve these problems. In this paper, the critical E-Field value is obtained by Peek's empirical formula and this provides a reference for the optimization. Using a three-dimensional FEM model, factors that affect the E-Field distribution on four-bundle conductors are discussed and recommendations on diameter and bundle spacing are obtained. The optimization can result in reduction of the corona discharge on the conductors. The derived conclusions can provide experiences and references for the design of conductors in 750 kV AC substation.
+ER  -
+TY  - CONF
+AU  - Munteanu, Calin
+AU  - Purcar, Marius
+AU  - Bursasiu, Dan
+AU  - Merdan, Emil
+AU  - Farcas, Vasile
+T1  - CAD/CAE modeling of the human exposure to electric field inside a high voltage substation
+T2  - 2014 International Conference and Exposition on Electrical and Power Engineering (EPE)
+Y1  - 2014
+SP  - 476
+EP  - 479
+M3  - https://doi.org/10.1109/ICEPE.2014.6969953
+KW  - charge simulation method
+L1  - CADCAE modeling of the human exposure to electric field inside a high voltage substation.pdf
+N1  - ASReview_relevant
+N2  - This paper presents the computer aided design (CAD) and computer aided engineering (CAE) modeling of Cluj-Sud 110 kV high voltage substation in order to examine the influence of substation constructive elements and apparatus (e.g. phase conductors, bypass bus bars, breakers and towers) on the spatial electric field distribution. The substation belongs to FDEE Electrica distributie Transilvania Nord SA. In a first step the detailed three dimensional (3D) CAD models of the substation components are constructed and assembled in the CAD environment SolidWorks. Then the exact 3D coordinates of the terminals are automatically retrieved and the electric field distribution is computed on the 3D CAD model using a CAE software developed. The electric field distribution is represented on horizontal and transversal slices at the 3D CAD model in order to highlight the high intensity field zones and compare them with respect to the actual legislation norms of human exposure.
+ER  -
+TY  - JOUR
+AU  - Sebo, Stephen A.
+AU  - Caldecott, Ross
+T1  - Scale Model Studies of AC Substation Electric Fields
+JO  - IEEE Transactions on Power Apparatus and Systems
+Y1  - 1979
+VL  - PAS-98
+IS  - 3
+SP  - 926
+EP  - 939
+M3  - https://doi.org/10.1109/TPAS.1979.319250
+L1  - Scale Model Studies of AC Substation Electric Fields.pdf
+N1  - ASReview_relevant
+N2  - Energized scale models of EHV/UHV substations can be used as design tools to detennine the electric field distribution. To prove the method, an energized scale model of an existing 345-kV substation has been designed and built. The paper reviews modeling and instrumentation problems and their solutions, calibration and verification tests, and discusses the accuracy of model measurements. Comparison of corresponding test points shows that the agreement between substation and model measurements is good: the mean of absolute values of errors is about 4.6%. In the course of the study, the electric field strength of the model was mapped, and the effects of a wide range of modifications were examined. The feasibility of short circuit (charging) current measurements on model vehicles was also proven.
+ER  -
+TY  - CONF
+AU  - Shaalan, Essam M.
+AU  - Ghania, Samy M.
+AU  - Ward, Sayed A.
+T1  - Analysis of electric field inside HV substations using charge simulation method in three dimensional
+T2  - 2010 Annual Report Conference on Electrical Insulation and Dielectic Phenomena
+Y1  - 2010
+SP  - 1
+EP  - 5
+M3  - https://doi.org/10.1109/CEIDP.2010.5724041
+L1  - Analysis of electric field inside HV substations using charge simulation method in three dimensional.pdf
+N1  - ASReview_relevant
+N2  - With the development of cities and electric power industry, the demand of electrical energy, generation, transmission, distribution and the voltage levels have increased considerably. Therefore the power frequency electric field and environmental impact assessment near / under the high voltage overhead busbars, incoming and outgoing feeders inside the high voltage substations (HVS) have caused wide public concern. Nowadays most research on electric field are concerned with calculation the electric field distribution around the transmission lines, insulators and cables but they rarely concerned with its calculation inside HVS. In this paper, a different type of calculation is achieved, the charge simulation method (CSM) is employed to analyze the three dimensional (3-D) electric field distribution near / under the busbars, incoming and outgoing feeders. At last, the effects of changing the level of operating voltage, the space between the phases, the level of calculation inside HVS is demonstrated.
+ER  -
+TY  - JOUR
+AU  - Shaalan, Essam M.
+AU  - Ghania, Samy M.
+AU  - Ward, Sayed A.
+T1  - Analysis and measurement of electric field exposure inside 500/220 kV air insulated substation
+JO  - Journal of Electrical Engineering
+Y1  - 2012
+VL  - 12
+IS  - 2
+SP  - 8–8
+EP  - 8–8
+L1  - Analysis and measurement of electric field exposure inside 500 220 kV air insulated substation.pdf
+N1  - ASReview_relevant
+N2  - the possible effect of low frequency electric field exposure in occupational and residential environments raises the question of how electric fields are created, and what effects they may have. Utilities in particular are interested in the sources and levels of electric fields associated with their transmission lines, feeders, substations and related equipments. Moreover the value of electric field distribution produced by or around the electrical equipments is one of the essential factors in the design and development of high voltage electrical equipments (transmission lines, bus bars & insulators....etc). Therefore monitoring these equipments for electric fields is achieved in this paper. In this paper not only the simulation of electric field using charge simulation method (CSM) in three dimensional (3-D) is achieved by using electric field modeling program developed by the authors but also the electric field is measured into actual conventional 500/220 kV Cairo 500 substation under 500 kV busbar and the simulated results is compared with the actual measured values. The simulation results are matched with the measured values with a very small tolerance about 4.4%.
+ER  -
+TY  - THES
+AU  - da Silva, Rogério Regis
+T1  - Análise Paramétrica do Cálculo de Campos Elétricos em Subestações pelo Método de Simulação de Cargas
+Y1  - 2013
+PB  - Universidade Federal de Itajubá
+KW  - charge simulation
+L1  - Análise Paramétrica do Cálculo de Campos Elétricos em Subestações pelo Método de Simulação de Cargas.pdf
+N1  - ASReview_relevant
+N2  - The Normative Resolution ANEEL No 398 of march, 23 2010 has created a great demand in computing electric and magnetic fields in power system transmission lines and substations, which, in turn, has exposed a lack of qualified engineers in this field in Brazil. The aim of this work is to present an analysis of the influence of the level of representation of substations details in the final results of the electric field computations carried out with CEMIEE software, focusing on attending the ANEEL Normative Resolution. Also are presented the main limitations of the most traditional models applied to compute electric field in substations, besides a validation of the CEMIEE software.
+ER  -
+TY  - JOUR
+AU  - Tian, Xiao
+AU  - Lan, Zhijun
+AU  - Huo, Feng
+AU  - Huang, Zhipeng
+AU  - Huang, Shilong
+AU  - Ding, Yujian
+AU  - Geng, Jianghai
+AU  - Yan, Xiaoliang
+AU  - Liu, Yunpeng
+T1  - Calculation of Electric Field on Substation Equipment considering AC Ion Flow Field
+JO  - Mathematical Problems in Engineering
+Y1  - 2020
+N1  - ASReview_irrelevant
+N2  - With the increase of voltage levels in substation corona discharge on the surface of high voltage conductors and equipment in substations becoming more and more severe, the influence on the electromagnetic environment around substations is becoming more and more obvious. In order to study the influence of corona discharge on the ground electric field under substation equipment in AC substations, this paper proposes an improved method based on Abdel-Salam’s calculation of the ion flow field on AC power lines. By redefining the criterion of corona onset and the amount of emission charge and combining with the migration, motion, and recombination of the space charge, a new model which can be applied to the calculation of AC ion flow field electric field of multiphase bundle conductors in substations is established. The calculation results of the ground power frequency electric field of the conductor at the typical tower in the light, medium, and heavy ice regions of 750 kV typical AC transmission project show that the ground electric field gradually decreases with the increase of conductor height. At the same conductor height, the ground electric field strength in the heavy ice region is the largest, while under the conductor in a light ice region, it is the smallest, and the minimum allowable conductor-to-ground distance can be concluded that the national standard limit value is not exceeded when the conductor-to-ground distance in light ice region is 24.5 m, the conductor-to-ground distance in medium ice region is 25.5 m, and the conductor-to-ground distance in heavy ice region is 26 m.
+ER  -
+TY  - CONF
+AU  - Waugh, N. T.
+AU  - Muir, D. D.
+T1  - Improving the life cycle management of power transformers transforming data to life
+T2  - SoutheastCon 2015
+Y1  - 2015
+SP  - 1–7
+EP  - 1–7
+M3  - https://doi.org/10.1109/SECON.2015.7132977
+KW  - Power transformers
+KW  - Market research
+KW  - Computers
+KW  - Oil insulation
+KW  - Propagation losses
+KW  - Maintenance engineering
+KW  - Companies
+KW  - life cycle management
+KW  - diagnostic software
+KW  - failure
+KW  - oil tests
+KW  - electrical field tests
+U1  - 1558-058X
+N1  - ASReview_irrelevant
+N2  - Power transformers are essential in the transmission of alternating current and are the most costly equipment in the substation. Although their failure rate is relatively low (less than two percent), the in-service failure of a power transformer can be very catastrophic. The restoration cost of in-service power transformer failures increases by up to seventy-five percent and loss of revenue by sixty percent. It is therefore prudent for utility companies to optimize the life of power transformers and mitigate in-service failures. “Early Detection Saves Lives”, a slogan associated with the fight against cancer is also very relevant to the life cycle management of power transformers. The health of the power transformer is reflected through its insulation strength. There are several on-line and offline tests used to assess the health of power transformer. These give rise to an enormous amount of data to be analyzed. Many utilities manually analyze these results and only focus on the most recent test results. This method of analysis is time consuming and is subject to human error. It abets the back-log of testing and not correcting developing faults in a timely manner. There are benefits that can be gained from using a computer program to store, analyze and trend power transformer data, as well as predict and monitor developing power transformer faults. Software are available to test and monitor power transformer oil via online devices; while other maintenance software analyze single electrical field tests. There is the potential to gain greater benefits from having one computer program that incorporates oil and electrical field tests results, as well as the age, loading and inspection data of the power transformers to determine their health status or condition index. This paper outlines the proposed architecture and features of a custom built Power Transformer Maintenance Software (PTMS). PTMS facilitates a paradigm shift from reactive maintenance (such as practiced at the Jamaica Public Service Company Limited) to a predictive maintenance approach. This study proposes the use of a customized integrated data management system to improve the life cycle management of power transformers.
+ER  -
+TY  - JOUR
+AU  - Yan, Zheng
+AU  - Li, J. X.
+AU  - Dong, Zhao Yang
+AU  - Zhu, Y.
+T1  - Prediction and improvement of the electric field distribution in high voltage AC substations
+JO  - Electric Power Systems Research
+Y1  - 1986
+VL  - 11
+SP  - 153
+EP  - 159
+N1  - ASReview_relevant
+N2  - Various full-scale and model-scale measurements of electric field effects in several 330 and 500 kV AC substations are reviewed. Statistical analysis of the test results is recommended. The accuracy of model-scale measurements is satisfactory for engineering requirements. Model-scale measurements and analytical calculations of the electric field effects are analyzed and used in order to predict the electric field related performance of AC substations in the design phase.
+ER  -
+TY  - JOUR
+AU  - Yusuf, H.
+AU  - Ahkadun, N.
+T1  - Analysis of Effect Electric Field Strenght on Safe Distance Below Main Substation Busbar 150 kV
+JO  - Journal of Physics: Conference Series
+Y1  - 2021/02
+VL  - 1764
+IS  - 1
+SP  - 012170
+EP  - 012170
+UR  - https://doi.org/10.1088/1742-6596/1764/1/012170
+M3  - https://doi.org/10.1088/1742-6596/1764/1/012170
+L1  - Analysis of Effect Electric Field Strenght on Safe Distance Below Main Substation Busbar 150 kV.pdf
+N1  - ASReview_relevant
+N2  - This research is to analyze the effect of electric field strength on the safe distance under the 150kV substation busbar. The research was conducted at 150 kV substation Rancaekek, substation Rancakasumba, substation Cikasungka. The electric field exposure threshold value according to SNI, ICNIRP, IRPA/INIRP and WHO is 10kV / m for the working community. The lowest distance of the busbar conductor to the ground surface is 7.5m. Measurements and calculations of transverse electric field strength from busbar 1 to busbar 2. The height of the test point is 0 m to 2.3 m from the ground surface. From the results of the calculation of the electric field, strength obtained that the shortest minimum safe distance is 7.48 m, while the highest minimum safe distance is 7.88 m. From the results of the measurements of the electric field From the results of measurements of electric field strength obtained that the fastest duration of electric field exposure was 4.42 hours while the longest electric field exposure duration was 5.75 hours. From the calculation of the electric field, strength obtained that: the fastest duration of electric field exposure is 7.56 hours while the longest duration of electric field exposure is 7.91 hours.
+ER  -
+TY  - JOUR
+AU  - Zhan-Long, Zhang
+AU  - Jun, Deng
+AU  - Dong-Ping, Xiao
+AU  - Wei, He
+AU  - Ju, Tang
+T1  - An Adaptive Fast Multipole Higher Order Boundary Element Method for Power Frequency Electric Field of Substation
+JO  - Chinese Physics Letters
+Y1  - 2010/03
+VL  - 27
+IS  - 3
+SP  - 034105
+EP  - 034105
+UR  - https://doi.org/10.1088/0256-307x/27/3/034105
+M3  - https://doi.org/10.1088/0256-307x/27/3/034105
+L1  - An Adaptive Fast Multipole Higher Order Boundary Element Method for Power Frequency ElectricField of Substation.pdf
+N1  - ASReview_relevant
+N2  - An adaptive fast multipole higher order boundary element method combining fast multipole (FM) with a higher order boundary element method is studied to solve the power frequency electric field (PFEF) of substations. In this new technique, the iterative equation solver GMRES is used in the FM, where matrix-vector multiplications are calculated using fast multipole expansions. The coefficients in the preconditioner for GMRES are stored and are used repeatedly in the direct evaluations of the near-field contributions. Then a 500kV outdoor substation is modeled and the PFEF of the substation is analyzed by the novel algorithm and other conventional methods. The results show that, in computational cost and the storages capability aspects, the algorithm proposed in this study has obvious advantages. It is suitable for the calculation of the large-scale PFEF in complex substations and the design of electromagnetic compatibility.
+ER  -
+TY  - CONF
+AU  - Zhao, S.
+AU  - Pan, L.
+AU  - Jiang, Q.
+AU  - Li, B.
+AU  - Cui, G.
+T1  - Intelligence Expert System of Transformer Running State Diagnosis Based on Acoustic Signal Analyzing
+T2  - 2009 Second International Symposium on Knowledge Acquisition and Modeling
+Y1  - 2009
+VL  - 3
+SP  - 52–55
+EP  - 52–55
+M3  - https://doi.org/10.1109/KAM.2009.153
+KW  - Intelligent systems
+KW  - Diagnostic expert systems
+KW  - Signal analysis
+KW  - Fault diagnosis
+KW  - Acoustic waves
+KW  - Algorithm design and analysis
+KW  - Power transformers
+KW  - Noise reduction
+KW  - Signal processing algorithms
+KW  - Genetic mutations
+KW  - transformer
+KW  - running state diagnosis
+KW  - expert system
+KW  - acoustic signal
+KW  - wavelet package
+N1  - ASReview_irrelevant
+N2  - There are many kinds of external phenomena with power equipments running state changing, and one of the important characters is acoustic signal mutation when power transformer would get out of order. But it is difficult to judge the acoustic change degree and describe the failure character scientifically only by human subjective sensation. The acoustic monitoring can be realized with non-contact measurement, the committed step is the acoustic signal processing, and intelligence fault diagnosis scheme is presented in this thesis. After acoustic signal collected in substation, the layer threshold de-noising algorithm is utilized, the signal characteristics based on wavelet package is extracted to be the gist of knowledge acquisition and consequence, and the fault diagnosis expert system is designed by acoustic quantative analysis. Through acoustic signal analyzing experiments, the effects of the de-noising algorithm and signal characteristics extraction method have been verified. The acoustic wave diagnosis expert system can solve many problems because of the high voltage and powerful electromagnetic field of the power system, and it would be a good reference to many power equipment fault identify.
+ER  -

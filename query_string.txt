@@ -1,0 +1,7 @@
+scopus:
+( assessment OR calculat* OR computat* OR evaluate OR investigat* OR method OR "scale model" OR simulat* )  AND  ( ( electric  OR  electromagnetic )  PRE/5  field )  AND  substation  AND  ( ( permissible  W/3  level )  OR  "occupation* exposure"  OR  human  OR  person*  OR  people )
+1359 docs
+
+ieee xplore:
+( assessment OR calculat* OR computat* OR evaluate OR investigat* OR method OR "scale model" OR simulat* ) AND ( ( electric OR electromagnetic ) ONEAR/5 field ) AND substation AND ( ( permissible NEAR/3 level ) OR "occupational exposure" OR human OR personnel OR people )
+83 docs
